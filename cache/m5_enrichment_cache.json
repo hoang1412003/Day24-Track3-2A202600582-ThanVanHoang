@@ -1,0 +1,3505 @@
+{
+  "382054518a1be2d7b4cf440504a75b698e2610119a0fd1e212bbfb1501f55ddc": {
+    "original_text": "# Bảng lương năm 2024\n> Phiên bản: 3.0 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Nhân sự & Tài chính",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu bang_luong_2024.md và nói về bảng lương cho năm 2024.\n\n# Bảng lương năm 2024\n> Phiên bản: 3.0 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Nhân sự & Tài chính",
+    "summary": "Đoạn văn giới thiệu về bảng lương năm 2024, bao gồm thông tin về phiên bản, ngày hiệu lực và phòng ban liên quan. Đây là tài liệu quan trọng cho việc quản lý lương bổng trong tổ chức.",
+    "hypothesis_questions": [
+      "Bảng lương năm 2024 có những thông tin gì?",
+      "Ngày hiệu lực của bảng lương năm 2024 là khi nào?",
+      "Phòng ban nào phụ trách bảng lương năm 2024?"
+    ],
+    "auto_metadata": {
+      "source": "bang_luong_2024.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Bảng lương",
+      "entities": [
+        "Nhân sự",
+        "Tài chính"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "60dbc93fec20fadd331c3f33ce5c9b6da45fdab73cfde048ec004bc605fc2ac3": {
+    "original_text": "## Khung lương theo cấp bậc | Cấp bậc | Lương gross (VNĐ/tháng) | |----------|--------------------------| | Junior (P1-P2) | 12.000.000 - 20.000.000 | | Senior (P3-P4) | 20.000.000 - 35.000.000 | | Lead (P5) | 35.000.000 - 50.000.000 |",
+    "enriched_text": "Đoạn văn nằm trong tài liệu bang_luong_2024.md và nói về khung lương theo cấp bậc trong công ty.\n\n## Khung lương theo cấp bậc | Cấp bậc | Lương gross (VNĐ/tháng) | |----------|--------------------------| | Junior (P1-P2) | 12.000.000 - 20.000.000 | | Senior (P3-P4) | 20.000.000 - 35.000.000 | | Lead (P5) | 35.000.000 - 50.000.000 |",
+    "summary": "Đoạn văn trình bày khung lương theo cấp bậc cho các vị trí trong công ty, bao gồm Junior, Senior và Lead. Mỗi cấp bậc có mức lương gross khác nhau, từ 12 triệu đến 50 triệu VNĐ mỗi tháng.",
+    "hypothesis_questions": [
+      "Khung lương cho cấp bậc Junior là bao nhiêu?",
+      "Cấp bậc nào có mức lương cao nhất?",
+      "Mức lương cho cấp bậc Senior nằm trong khoảng nào?"
+    ],
+    "auto_metadata": {
+      "source": "bang_luong_2024.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Khung lương",
+      "entities": [
+        "Junior",
+        "Senior",
+        "Lead"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "78090eba3f942a363a016f526d7ca64d39875e07cb445a669cf0c944770a5c0f": {
+    "original_text": "| Manager (M1-M2) | 45.000.000 - 70.000.000 |",
+    "enriched_text": "Đoạn văn nằm trong tài liệu bang_luong_2024.md và nói về mức lương cho các vị trí quản lý trong năm 2024.\n\n| Manager (M1-M2) | 45.000.000 - 70.000.000 |",
+    "summary": "Đoạn văn cung cấp thông tin về mức lương cho vị trí quản lý (M1-M2) trong năm 2024, với khoảng lương từ 45 triệu đến 70 triệu đồng.",
+    "hypothesis_questions": [
+      "Mức lương tối thiểu cho vị trí quản lý là bao nhiêu?",
+      "Mức lương tối đa cho vị trí quản lý là bao nhiêu?",
+      "Có những vị trí nào khác ngoài M1-M2 không?"
+    ],
+    "auto_metadata": {
+      "source": "bang_luong_2024.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Mức lương",
+      "entities": [
+        "Manager",
+        "M1-M2"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "a9ffd587ef0cdaab97a15ea5cd4d6f5fd5a2e148e30b0ce688f714ae23d70dbb": {
+    "original_text": "## Lương thử việc\nNhân viên trong thời gian thử việc được nhận **85% lương** của cấp bậc tương ứng. Sau khi hoàn thành thử việc, lương được điều chỉnh lên 100% kể từ ngày ký hợp đồng chính thức.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về chính sách lương năm 2024, nói về quy định lương thử việc cho nhân viên.\n\n## Lương thử việc\nNhân viên trong thời gian thử việc được nhận **85% lương** của cấp bậc tương ứng. Sau khi hoàn thành thử việc, lương được điều chỉnh lên 100% kể từ ngày ký hợp đồng chính thức.",
+    "summary": "Đoạn văn mô tả chính sách lương thử việc cho nhân viên, trong đó nhân viên sẽ nhận 85% lương của cấp bậc tương ứng trong thời gian thử việc. Sau khi hoàn thành thử việc, lương sẽ được điều chỉnh lên 100% kể từ ngày ký hợp đồng chính thức.",
+    "hypothesis_questions": [
+      "Nhân viên nhận bao nhiêu phần trăm lương trong thời gian thử việc?",
+      "Khi nào lương sẽ được điều chỉnh lên 100%?",
+      "Chính sách này áp dụng cho nhân viên ở cấp bậc nào?"
+    ],
+    "auto_metadata": {
+      "source": "bang_luong_2024.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Chính sách lương",
+      "entities": [
+        "nhân viên",
+        "lương thử việc",
+        "hợp đồng chính thức"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "ef45d581be039f0a54fd523a82594e663f9f9257bb2bc42373042c9e83ebf4c3": {
+    "original_text": "## Điều chỉnh lương\nLương được xét tăng 2 lần/năm vào tháng 1 và tháng 7 dựa trên kết quả đánh giá hiệu suất. Mức tăng lương trung bình từ 8-15% tùy theo kết quả đánh giá và ngân sách công ty.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu bang_luong_2024.md và nói về chính sách điều chỉnh lương của công ty.\n\n## Điều chỉnh lương\nLương được xét tăng 2 lần/năm vào tháng 1 và tháng 7 dựa trên kết quả đánh giá hiệu suất. Mức tăng lương trung bình từ 8-15% tùy theo kết quả đánh giá và ngân sách công ty.",
+    "summary": "Đoạn văn nói về việc điều chỉnh lương trong năm 2024, với việc lương được xét tăng hai lần mỗi năm vào tháng 1 và tháng 7. Mức tăng lương trung bình dao động từ 8-15% tùy thuộc vào kết quả đánh giá hiệu suất và ngân sách của công ty.",
+    "hypothesis_questions": [
+      "Lương được xét tăng vào tháng nào?",
+      "Mức tăng lương trung bình là bao nhiêu?",
+      "Yếu tố nào ảnh hưởng đến mức tăng lương?"
+    ],
+    "auto_metadata": {
+      "source": "bang_luong_2024.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Điều chỉnh lương",
+      "entities": [
+        "lương",
+        "đánh giá hiệu suất",
+        "ngân sách"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "86676b4a4ac54ad1b9d81b8d543b2938c8dc4b21636c14416b378eba1a9cbe52": {
+    "original_text": "# Chính sách bảo hiểm sức khỏe\n> Phiên bản: 1.5 | Ngày hiệu lực: 01/04/2024 | Phòng ban: Nhân sự",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu và nói về chính sách bảo hiểm sức khỏe của công ty.\n\n# Chính sách bảo hiểm sức khỏe\n> Phiên bản: 1.5 | Ngày hiệu lực: 01/04/2024 | Phòng ban: Nhân sự",
+    "summary": "Đoạn văn giới thiệu về chính sách bảo hiểm sức khỏe của công ty, bao gồm thông tin về phiên bản và ngày hiệu lực. Chính sách này thuộc phòng ban nhân sự.",
+    "hypothesis_questions": [
+      "Chính sách bảo hiểm sức khỏe có những điều khoản gì?",
+      "Ai là người phụ trách chính sách này?",
+      "Ngày hiệu lực của chính sách là khi nào?"
+    ],
+    "auto_metadata": {
+      "source": "bao_hiem_suc_khoe.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách bảo hiểm sức khỏe",
+      "entities": [
+        "bảo hiểm sức khỏe",
+        "phòng ban nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "d42a4cc3ed1a8891efe2c1ca3de3b15c6f3bb452bcef97d3c3ea8190402a186d": {
+    "original_text": "## Bảo hiểm cho nhân viên\nCông ty cung cấp gói bảo hiểm sức khỏe toàn diện qua **PVI Insurance** cho tất cả nhân viên chính thức. Hạn mức bảo hiểm: **200.000.000 VNĐ/năm** bao gồm nội trú, ngoại trú và nha khoa.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về bảo hiểm sức khỏe, nói về chính sách bảo hiểm cho nhân viên trong công ty.\n\n## Bảo hiểm cho nhân viên\nCông ty cung cấp gói bảo hiểm sức khỏe toàn diện qua **PVI Insurance** cho tất cả nhân viên chính thức. Hạn mức bảo hiểm: **200.000.000 VNĐ/năm** bao gồm nội trú, ngoại trú và nha khoa.",
+    "summary": "Công ty cung cấp gói bảo hiểm sức khỏe toàn diện cho nhân viên chính thức thông qua PVI Insurance. Hạn mức bảo hiểm là 200.000.000 VNĐ/năm, bao gồm các dịch vụ nội trú, ngoại trú và nha khoa.",
+    "hypothesis_questions": [
+      "Gói bảo hiểm sức khỏe này được cung cấp bởi công ty nào?",
+      "Hạn mức bảo hiểm cho mỗi nhân viên là bao nhiêu?",
+      "Gói bảo hiểm này bao gồm những dịch vụ nào?"
+    ],
+    "auto_metadata": {
+      "source": "bao_hiem_suc_khoe.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Bảo hiểm sức khỏe",
+      "entities": [
+        "PVI Insurance",
+        "nhân viên",
+        "bảo hiểm"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "a2468250c82cb1c5fb9d98a32402fa799395fe220a57934ba13a67206aef388c": {
+    "original_text": "## Gói gia đình\nNhân viên có thể đăng ký thêm gói bảo hiểm cho người thân (vợ/chồng, con dưới 18 tuổi) với hạn mức **50.000.000 VNĐ/năm/người**. Chi phí gói gia đình: công ty hỗ trợ 50%, nhân viên đóng 50% qua khấu trừ lương hàng tháng.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về bảo hiểm sức khỏe, nói về gói bảo hiểm dành cho gia đình của nhân viên.\n\n## Gói gia đình\nNhân viên có thể đăng ký thêm gói bảo hiểm cho người thân (vợ/chồng, con dưới 18 tuổi) với hạn mức **50.000.000 VNĐ/năm/người**. Chi phí gói gia đình: công ty hỗ trợ 50%, nhân viên đóng 50% qua khấu trừ lương hàng tháng.",
+    "summary": "Đoạn văn mô tả về gói bảo hiểm sức khỏe dành cho gia đình của nhân viên, cho phép họ đăng ký bảo hiểm cho người thân với hạn mức 50 triệu VNĐ mỗi năm cho mỗi người. Chi phí được chia sẻ giữa công ty và nhân viên, trong đó công ty hỗ trợ 50% và nhân viên đóng 50% qua khấu trừ lương hàng tháng.",
+    "hypothesis_questions": [
+      "Gói bảo hiểm gia đình có hạn mức bao nhiêu?",
+      "Ai là đối tượng có thể đăng ký gói bảo hiểm này?",
+      "Chi phí gói bảo hiểm được chia sẻ như thế nào giữa công ty và nhân viên?"
+    ],
+    "auto_metadata": {
+      "source": "bao_hiem_suc_khoe.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Bảo hiểm sức khỏe",
+      "entities": [
+        "nhân viên",
+        "người thân",
+        "vợ/chồng",
+        "con dưới 18 tuổi"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "fa8315a04f37f71eb9dfa69bb352427ee8ff4786a387a2bbece1e753787d76ea": {
+    "original_text": "## Quy trình sử dụng Nhân viên xuất trình thẻ bảo hiểm PVI tại các bệnh viện/phòng khám trong danh sách liên kết. Trường hợp khám ngoài danh sách, nhân viên thanh toán trước và nộp hồ sơ bồi hoàn trong vòng 30 ngày. Thời gian xử lý bồi hoàn:",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về bảo hiểm sức khỏe, nói về quy trình sử dụng thẻ bảo hiểm tại các cơ sở y tế.\n\n## Quy trình sử dụng Nhân viên xuất trình thẻ bảo hiểm PVI tại các bệnh viện/phòng khám trong danh sách liên kết. Trường hợp khám ngoài danh sách, nhân viên thanh toán trước và nộp hồ sơ bồi hoàn trong vòng 30 ngày. Thời gian xử lý bồi hoàn:",
+    "summary": "Đoạn văn mô tả quy trình sử dụng thẻ bảo hiểm PVI của nhân viên tại các bệnh viện và phòng khám liên kết. Nếu khám ngoài danh sách, nhân viên cần thanh toán trước và nộp hồ sơ bồi hoàn trong vòng 30 ngày.",
+    "hypothesis_questions": [
+      "Quy trình bồi hoàn diễn ra như thế nào?",
+      "Nhân viên cần làm gì khi khám ngoài danh sách?",
+      "Thời gian xử lý bồi hoàn là bao lâu?"
+    ],
+    "auto_metadata": {
+      "source": "bao_hiem_suc_khoe.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quy trình sử dụng bảo hiểm sức khỏe",
+      "entities": [
+        "Nhân viên",
+        "thẻ bảo hiểm PVI",
+        "bệnh viện",
+        "phòng khám"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "34fd6c5871cfa0d033e375b2bcfe20d2cdb184cb57f66b9e2e31682a0eed8bdf": {
+    "original_text": "10-15 ngày làm việc.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về bảo hiểm sức khỏe, có thể liên quan đến thời gian xử lý hồ sơ hoặc yêu cầu.\n\n10-15 ngày làm việc.",
+    "summary": "Đoạn văn chỉ đề cập đến khoảng thời gian 10-15 ngày làm việc, có thể liên quan đến một quy trình hoặc thời hạn nào đó.",
+    "hypothesis_questions": [
+      "Khoảng thời gian này áp dụng cho quy trình nào?",
+      "Có cần chuẩn bị gì trong thời gian này không?",
+      "Thời gian này có thể thay đổi không?"
+    ],
+    "auto_metadata": {
+      "source": "bao_hiem_suc_khoe.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "bảo hiểm sức khỏe",
+      "entities": [],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "a5ca08b627b9c810170d590899c6fee03eba8d1262740a5e99a79c31c67d9ce3": {
+    "original_text": "# Quy trình xử lý sự cố bảo mật\n> Phiên bản: 1.1 | Ngày hiệu lực: 01/05/2024 | Phòng ban: CNTT & An ninh thông tin",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu và nói về quy trình xử lý sự cố bảo mật trong tổ chức.\n\n# Quy trình xử lý sự cố bảo mật\n> Phiên bản: 1.1 | Ngày hiệu lực: 01/05/2024 | Phòng ban: CNTT & An ninh thông tin",
+    "summary": "Đoạn văn giới thiệu về quy trình xử lý sự cố bảo mật, bao gồm thông tin về phiên bản và ngày hiệu lực của tài liệu. Nó cũng chỉ rõ phòng ban liên quan là CNTT & An ninh thông tin.",
+    "hypothesis_questions": [
+      "Quy trình xử lý sự cố bảo mật là gì?",
+      "Phiên bản và ngày hiệu lực của tài liệu này là khi nào?",
+      "Phòng ban nào phụ trách quy trình này?"
+    ],
+    "auto_metadata": {
+      "source": "bao_mat_su_co.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Quy trình xử lý sự cố bảo mật",
+      "entities": [
+        "CNTT",
+        "An ninh thông tin"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "97e3657ba1c1a72d7f2c5c474b081dfe09b37fcd9b62a94df5d9619c86a16a61": {
+    "original_text": "## Báo cáo sự cố Khi phát hiện hoặc nghi ngờ sự cố bảo mật, nhân viên **phải báo cáo trong vòng 1 giờ** qua email **helpdesk@cty.vn** hoặc hotline CNTT nội bộ (ext. 9999).",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về bảo mật, cụ thể là hướng dẫn báo cáo sự cố bảo mật.\n\n## Báo cáo sự cố Khi phát hiện hoặc nghi ngờ sự cố bảo mật, nhân viên **phải báo cáo trong vòng 1 giờ** qua email **helpdesk@cty.vn** hoặc hotline CNTT nội bộ (ext. 9999).",
+    "summary": "Đoạn văn hướng dẫn nhân viên cách báo cáo sự cố bảo mật khi phát hiện hoặc nghi ngờ. Nhân viên cần thực hiện báo cáo trong vòng 1 giờ qua email hoặc hotline CNTT nội bộ.",
+    "hypothesis_questions": [
+      "Nhân viên cần báo cáo sự cố bảo mật qua đâu?",
+      "Thời gian tối đa để báo cáo sự cố là bao lâu?",
+      "Số điện thoại hotline CNTT nội bộ là gì?"
+    ],
+    "auto_metadata": {
+      "source": "bao_mat_su_co.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Báo cáo sự cố bảo mật",
+      "entities": [
+        "nhân viên",
+        "sự cố bảo mật",
+        "email",
+        "hotline CNTT"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "e66add8cf8a1781e29128fcded78bcdddf047c38328cbc12b9c37bfefbc53972": {
+    "original_text": "Tuyệt đối **không tự ý xử lý malware** hoặc tìm cách khắc phục mà không có sự hướng dẫn của đội CNTT.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về bảo mật, đề cập đến quy tắc xử lý sự cố liên quan đến malware.\n\nTuyệt đối **không tự ý xử lý malware** hoặc tìm cách khắc phục mà không có sự hướng dẫn của đội CNTT.",
+    "summary": "Đoạn văn nhấn mạnh rằng người dùng không nên tự ý xử lý malware mà không có sự hướng dẫn từ đội CNTT. Điều này nhằm đảm bảo an toàn và hiệu quả trong việc xử lý các sự cố liên quan đến phần mềm độc hại.",
+    "hypothesis_questions": [
+      "Tại sao không nên tự ý xử lý malware?",
+      "Ai nên được liên hệ khi phát hiện malware?",
+      "Có những rủi ro nào khi tự xử lý malware?"
+    ],
+    "auto_metadata": {
+      "source": "bao_mat_su_co.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Bảo mật CNTT",
+      "entities": [
+        "malware",
+        "đội CNTT"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "8c608826b80bf5f0698060a8a6b05cdbd8a8559459b93b2f3ca9b6c5b854e179": {
+    "original_text": "## Phân loại sự cố - **Nghiêm trọng**: rò rỉ dữ liệu Bí mật/Tối mật, tấn công ransomware → xử lý trong 2 giờ - **Cao**: phishing thành công, tài khoản bị chiếm → xử lý trong 4 giờ - **Trung bình**:",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về bảo mật sự cố, nói về cách phân loại và xử lý các sự cố bảo mật.\n\n## Phân loại sự cố - **Nghiêm trọng**: rò rỉ dữ liệu Bí mật/Tối mật, tấn công ransomware → xử lý trong 2 giờ - **Cao**: phishing thành công, tài khoản bị chiếm → xử lý trong 4 giờ - **Trung bình**:",
+    "summary": "Đoạn văn phân loại các sự cố bảo mật theo mức độ nghiêm trọng, bao gồm các loại sự cố như rò rỉ dữ liệu và tấn công ransomware. Mỗi loại sự cố được chỉ định thời gian xử lý khác nhau.",
+    "hypothesis_questions": [
+      "Các loại sự cố nào được phân loại trong đoạn văn?",
+      "Thời gian xử lý cho sự cố nghiêm trọng là bao lâu?",
+      "Có bao nhiêu mức độ nghiêm trọng được đề cập trong đoạn văn?"
+    ],
+    "auto_metadata": {
+      "source": "bao_mat_su_co.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Phân loại sự cố bảo mật",
+      "entities": [
+        "rò rỉ dữ liệu",
+        "tấn công ransomware",
+        "phishing",
+        "tài khoản bị chiếm"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "eaff76eccb9b1c45fa96904b9ca2f5fe78ede4989de8a6660344e5815d29c47b": {
+    "original_text": "phát hiện malware trên 1 máy, truy cập trái phép → xử lý trong 8 giờ - **Thấp**: email spam, cảnh báo antivirus tự động → xử lý trong 24 giờ",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về bảo mật sự cố, nói về quy trình xử lý các sự cố bảo mật khác nhau.\n\nphát hiện malware trên 1 máy, truy cập trái phép → xử lý trong 8 giờ - **Thấp**: email spam, cảnh báo antivirus tự động → xử lý trong 24 giờ",
+    "summary": "Đoạn văn đề cập đến quy trình xử lý sự cố bảo mật, bao gồm phát hiện malware và truy cập trái phép với thời gian xử lý khác nhau. Các sự cố được phân loại theo mức độ nghiêm trọng, từ thấp đến cao.",
+    "hypothesis_questions": [
+      "Thời gian xử lý malware là bao lâu?",
+      "Các loại sự cố nào được đề cập trong đoạn văn?",
+      "Mức độ nào được coi là thấp trong quy trình xử lý?"
+    ],
+    "auto_metadata": {
+      "source": "bao_mat_su_co.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Bảo mật sự cố",
+      "entities": [
+        "malware",
+        "truy cập trái phép",
+        "email spam",
+        "antivirus"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "28539dab3b0de40d6c3967fdea91a7704372e2cd541e3a3ba4f533f0d2556e5b": {
+    "original_text": "## Trách nhiệm\nKhông báo cáo sự cố hoặc tự ý xử lý sẽ bị xem là vi phạm nghiêm trọng quy chế bảo mật và có thể bị kỷ luật theo mức cảnh cáo hoặc sa thải.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về bảo mật, nói về trách nhiệm của nhân viên trong việc báo cáo sự cố bảo mật.\n\n## Trách nhiệm\nKhông báo cáo sự cố hoặc tự ý xử lý sẽ bị xem là vi phạm nghiêm trọng quy chế bảo mật và có thể bị kỷ luật theo mức cảnh cáo hoặc sa thải.",
+    "summary": "Đoạn văn nhấn mạnh tầm quan trọng của việc báo cáo sự cố bảo mật. Việc không báo cáo hoặc tự ý xử lý sự cố sẽ bị coi là vi phạm nghiêm trọng và có thể dẫn đến kỷ luật hoặc sa thải.",
+    "hypothesis_questions": [
+      "Tại sao việc báo cáo sự cố bảo mật lại quan trọng?",
+      "Hậu quả của việc không báo cáo sự cố là gì?",
+      "Ai sẽ bị kỷ luật nếu vi phạm quy chế bảo mật?"
+    ],
+    "auto_metadata": {
+      "source": "bao_mat_su_co.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 5,
+      "chunk_index": 5,
+      "topic": "Trách nhiệm trong bảo mật thông tin",
+      "entities": [
+        "sự cố",
+        "bảo mật",
+        "kỷ luật"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "610a5d3772d9974a2cc79bd971ab566512db0a84458416a208060eaa4c226993": {
+    "original_text": "# Quy trình chi phí và hoàn ứng\n> Phiên bản: 1.3 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Tài chính",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu chi_phi_expense.md, nói về quy trình chi phí và hoàn ứng trong tổ chức.\n\n# Quy trình chi phí và hoàn ứng\n> Phiên bản: 1.3 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Tài chính",
+    "summary": "Đoạn văn giới thiệu về quy trình chi phí và hoàn ứng, bao gồm thông tin về phiên bản và ngày hiệu lực. Nó thuộc phòng ban Tài chính.",
+    "hypothesis_questions": [
+      "Quy trình chi phí và hoàn ứng có những bước nào?",
+      "Ai là người phụ trách quy trình này?",
+      "Có thay đổi gì trong phiên bản 1.3 so với phiên bản trước?"
+    ],
+    "auto_metadata": {
+      "source": "chi_phi_expense.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Quy trình chi phí",
+      "entities": [
+        "Tài chính",
+        "chi phí",
+        "hoàn ứng"
+      ],
+      "category": "finance",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "162441542e106bc720dcd9f9c04427329f827ba8d5e32bcd69e7c1224200ba05": {
+    "original_text": "## Thời hạn nộp hồ sơ\nNhân viên phải nộp hồ sơ hoàn ứng chi phí trong vòng **7 ngày** kể từ ngày phát sinh chi phí. Hồ sơ nộp trễ quá 30 ngày sẽ không được xử lý, trừ trường hợp đặc biệt có giải trình của trưởng phòng.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu chi_phi_expense.md và nói về quy định nộp hồ sơ hoàn ứng chi phí.\n\n## Thời hạn nộp hồ sơ\nNhân viên phải nộp hồ sơ hoàn ứng chi phí trong vòng **7 ngày** kể từ ngày phát sinh chi phí. Hồ sơ nộp trễ quá 30 ngày sẽ không được xử lý, trừ trường hợp đặc biệt có giải trình của trưởng phòng.",
+    "summary": "Đoạn văn quy định thời hạn nộp hồ sơ hoàn ứng chi phí cho nhân viên. Nhân viên cần nộp hồ sơ trong vòng 7 ngày kể từ ngày phát sinh chi phí, và hồ sơ nộp trễ quá 30 ngày sẽ không được xử lý, trừ trường hợp có giải trình đặc biệt.",
+    "hypothesis_questions": [
+      "Thời hạn nộp hồ sơ hoàn ứng chi phí là bao lâu?",
+      "Hồ sơ nộp trễ quá 30 ngày sẽ ra sao?",
+      "Có trường hợp nào được xử lý hồ sơ nộp trễ không?"
+    ],
+    "auto_metadata": {
+      "source": "chi_phi_expense.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Thời hạn nộp hồ sơ hoàn ứng chi phí",
+      "entities": [
+        "nhân viên",
+        "hồ sơ hoàn ứng",
+        "chi phí",
+        "trưởng phòng"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "9c942bc9d07737b63fe04d2ac71fa577f3891d9e0a402be94ddf1983c4a8674f": {
+    "original_text": "## Chứng từ yêu cầu\nMọi chi phí **trên 200.000 VNĐ** phải có **hóa đơn hoặc biên lai** hợp lệ. Chi phí dưới 200.000 VNĐ có thể khai báo không cần hóa đơn nhưng phải ghi rõ mục đích và ngày phát sinh.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về chi phí, nói về yêu cầu chứng từ cho các khoản chi tiêu trong doanh nghiệp.\n\n## Chứng từ yêu cầu\nMọi chi phí **trên 200.000 VNĐ** phải có **hóa đơn hoặc biên lai** hợp lệ. Chi phí dưới 200.000 VNĐ có thể khai báo không cần hóa đơn nhưng phải ghi rõ mục đích và ngày phát sinh.",
+    "summary": "Đoạn văn quy định về yêu cầu chứng từ cho các chi phí trong doanh nghiệp. Chi phí trên 200.000 VNĐ cần có hóa đơn hoặc biên lai hợp lệ, trong khi chi phí dưới 200.000 VNĐ có thể khai báo mà không cần hóa đơn nhưng phải ghi rõ mục đích và ngày phát sinh.",
+    "hypothesis_questions": [
+      "Chi phí nào cần có hóa đơn?",
+      "Chi phí dưới 200.000 VNĐ cần ghi gì?",
+      "Có những loại chứng từ nào được chấp nhận?"
+    ],
+    "auto_metadata": {
+      "source": "chi_phi_expense.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Chứng từ chi phí",
+      "entities": [
+        "chi phí",
+        "hóa đơn",
+        "biên lai"
+      ],
+      "category": "finance",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "faa381f602e29557bd857da5918dcad6d493b96dc239df6588186b31a543337a": {
+    "original_text": "## Phê duyệt\nTất cả chi phí cần được phê duyệt bởi **quản lý trực tiếp** trước khi nộp phòng Tài chính. Thời gian xử lý hoàn ứng: 5-10 ngày làm việc sau khi hồ sơ đầy đủ và được phê duyệt.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu chi_phi_expense.md và nói về quy trình phê duyệt chi phí.\n\n## Phê duyệt\nTất cả chi phí cần được phê duyệt bởi **quản lý trực tiếp** trước khi nộp phòng Tài chính. Thời gian xử lý hoàn ứng: 5-10 ngày làm việc sau khi hồ sơ đầy đủ và được phê duyệt.",
+    "summary": "Đoạn văn đề cập đến quy trình phê duyệt chi phí trong tổ chức, yêu cầu tất cả chi phí phải được quản lý trực tiếp phê duyệt trước khi gửi đến phòng Tài chính. Thời gian xử lý hoàn ứng được quy định từ 5-10 ngày làm việc sau khi hồ sơ được phê duyệt.",
+    "hypothesis_questions": [
+      "Ai là người phê duyệt chi phí?",
+      "Thời gian xử lý hoàn ứng là bao lâu?",
+      "Hồ sơ cần điều kiện gì để được phê duyệt?"
+    ],
+    "auto_metadata": {
+      "source": "chi_phi_expense.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quy trình phê duyệt chi phí",
+      "entities": [
+        "quản lý trực tiếp",
+        "phòng Tài chính"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "2f02b1feba7cafe9babafe7fddd9bd2d21ea036605ea8ca4ad2d8beb0dd380fa": {
+    "original_text": "## Lưu ý\nChi phí công tác phải tuân theo Chính sách công tác phí riêng. Hai chính sách cùng áp dụng: chi phí công tác theo định mức công tác phí, chi phí khác theo quy trình hoàn ứng chung.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu chi_phi_expense.md và nói về các quy định liên quan đến chi phí công tác.\n\n## Lưu ý\nChi phí công tác phải tuân theo Chính sách công tác phí riêng. Hai chính sách cùng áp dụng: chi phí công tác theo định mức công tác phí, chi phí khác theo quy trình hoàn ứng chung.",
+    "summary": "Đoạn văn nhấn mạnh rằng chi phí công tác cần tuân thủ theo Chính sách công tác phí riêng. Có hai chính sách áp dụng cho chi phí công tác: một là theo định mức công tác phí và hai là theo quy trình hoàn ứng chung cho các chi phí khác.",
+    "hypothesis_questions": [
+      "Chính sách công tác phí riêng là gì?",
+      "Có bao nhiêu chính sách áp dụng cho chi phí công tác?",
+      "Chi phí khác được hoàn ứng theo quy trình nào?"
+    ],
+    "auto_metadata": {
+      "source": "chi_phi_expense.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Chi phí công tác",
+      "entities": [
+        "Chính sách công tác phí",
+        "chi phí công tác",
+        "hoàn ứng"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "7c5551b9e0ed3e3939c2eb6aa2c27336ed2dcef7c61e9afb66ff6308074c6259": {
+    "original_text": "# Chính sách công tác phí\n> Phiên bản: 1.5 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Tài chính",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu và nói về chính sách công tác phí trong tổ chức.\n\n# Chính sách công tác phí\n> Phiên bản: 1.5 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Tài chính",
+    "summary": "Đoạn văn giới thiệu về chính sách công tác phí, bao gồm thông tin về phiên bản và ngày hiệu lực của chính sách. Nó cũng chỉ rõ phòng ban liên quan đến chính sách này.",
+    "hypothesis_questions": [
+      "Chính sách công tác phí có những nội dung gì?",
+      "Ngày hiệu lực của chính sách này là khi nào?",
+      "Phòng ban nào phụ trách chính sách công tác phí?"
+    ],
+    "auto_metadata": {
+      "source": "cong_tac_phi.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách công tác phí",
+      "entities": [
+        "Chính sách",
+        "Công tác phí",
+        "Tài chính"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "444baf4e5680f63cc12ec98a7fd45703feac76fdb1696e2a345e92742d13d0b7": {
+    "original_text": "## Công tác trong nước - **Phụ cấp ngày**: **800.000 VNĐ/ngày** (bao gồm ăn uống và di chuyển nội thành) - **Khách sạn**: tối đa **1.200.000 VNĐ/đêm**, thanh toán theo hóa đơn thực tế - **Vé máy bay**: hạng phổ thông, đặt trước ít nhất 5 ngày.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về công tác phí, nói về các quy định chi tiết liên quan đến chi phí công tác trong nước.\n\n## Công tác trong nước - **Phụ cấp ngày**: **800.000 VNĐ/ngày** (bao gồm ăn uống và di chuyển nội thành) - **Khách sạn**: tối đa **1.200.000 VNĐ/đêm**, thanh toán theo hóa đơn thực tế - **Vé máy bay**: hạng phổ thông, đặt trước ít nhất 5 ngày.",
+    "summary": "Đoạn văn cung cấp thông tin về các khoản phụ cấp cho công tác trong nước, bao gồm phụ cấp ngày, chi phí khách sạn và vé máy bay. Cụ thể, phụ cấp ngày là 800.000 VNĐ, chi phí khách sạn tối đa là 1.200.000 VNĐ/đêm và vé máy bay hạng phổ thông cần được đặt trước ít nhất 5 ngày.",
+    "hypothesis_questions": [
+      "Phụ cấp ngày là bao nhiêu?",
+      "Chi phí khách sạn tối đa là bao nhiêu?",
+      "Vé máy bay cần đặt trước bao lâu?"
+    ],
+    "auto_metadata": {
+      "source": "cong_tac_phi.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Công tác phí",
+      "entities": [
+        "phụ cấp ngày",
+        "khách sạn",
+        "vé máy bay"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "002ded9d18227d05faa59a24a9a84a568b88b23561e3d50281ad8ecd1a1773c7": {
+    "original_text": "Cấp Manager trở lên được bay hạng thương gia cho chặng trên 2 giờ",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về chính sách công tác phí, nói về quy định bay cho các cấp bậc quản lý.\n\nCấp Manager trở lên được bay hạng thương gia cho chặng trên 2 giờ",
+    "summary": "Đoạn văn đề cập đến quy định về việc cấp bậc Manager và các cấp cao hơn được phép bay hạng thương gia cho các chuyến bay có thời gian trên 2 giờ.",
+    "hypothesis_questions": [
+      "Ai là đối tượng được bay hạng thương gia?",
+      "Chặng bay nào được áp dụng quy định này?",
+      "Có giới hạn thời gian nào cho chuyến bay không?"
+    ],
+    "auto_metadata": {
+      "source": "cong_tac_phi.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Chính sách công tác phí",
+      "entities": [
+        "Manager",
+        "hạng thương gia",
+        "chặng bay"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "e1d08f92c5e3b957a6a50c218b209a18f995b9e51b87ccbbdd0c337a4ed7127f": {
+    "original_text": "## Công tác nước ngoài\n- Phụ cấp ngày theo quốc gia, thông thường 80-120 USD/ngày\n- Khách sạn tối đa 150 USD/đêm (thành phố lớn: 200 USD/đêm)\n- Bảo hiểm du lịch quốc tế bắt buộc, do công ty chi trả",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về công tác phí, nói về các quy định và chi phí liên quan đến công tác nước ngoài.\n\n## Công tác nước ngoài\n- Phụ cấp ngày theo quốc gia, thông thường 80-120 USD/ngày\n- Khách sạn tối đa 150 USD/đêm (thành phố lớn: 200 USD/đêm)\n- Bảo hiểm du lịch quốc tế bắt buộc, do công ty chi trả",
+    "summary": "Đoạn văn trình bày về công tác nước ngoài, bao gồm các khoản phụ cấp và chi phí liên quan. Cụ thể, phụ cấp hàng ngày dao động từ 80-120 USD, chi phí khách sạn tối đa là 150 USD/đêm, và bảo hiểm du lịch quốc tế là bắt buộc do công ty chi trả.",
+    "hypothesis_questions": [
+      "Phụ cấp ngày theo quốc gia là bao nhiêu?",
+      "Chi phí khách sạn tối đa là bao nhiêu?",
+      "Ai chi trả bảo hiểm du lịch quốc tế?"
+    ],
+    "auto_metadata": {
+      "source": "cong_tac_phi.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Công tác nước ngoài",
+      "entities": [
+        "phụ cấp",
+        "khách sạn",
+        "bảo hiểm du lịch"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "17cf955e7f1734d7aa67e969dce44d181f118f62b11a604a4822e25f17e34b58": {
+    "original_text": "## Quy trình thanh toán\nHồ sơ thanh toán công tác phí phải nộp trong vòng **7 ngày** sau khi kết thúc chuyến công tác. Hồ sơ bao gồm: phiếu công tác đã phê duyệt, boarding pass, hóa đơn khách sạn, các chứng từ khác.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quy trình thanh toán công tác phí.\n\n## Quy trình thanh toán\nHồ sơ thanh toán công tác phí phải nộp trong vòng **7 ngày** sau khi kết thúc chuyến công tác. Hồ sơ bao gồm: phiếu công tác đã phê duyệt, boarding pass, hóa đơn khách sạn, các chứng từ khác.",
+    "summary": "Đoạn văn mô tả quy trình thanh toán công tác phí, yêu cầu nộp hồ sơ trong vòng 7 ngày sau chuyến công tác. Hồ sơ cần bao gồm các tài liệu như phiếu công tác, boarding pass, hóa đơn khách sạn và các chứng từ khác.",
+    "hypothesis_questions": [
+      "Hồ sơ thanh toán công tác phí cần nộp trong thời gian bao lâu?",
+      "Những tài liệu nào cần có trong hồ sơ thanh toán?",
+      "Có cần phê duyệt phiếu công tác trước khi nộp hồ sơ không?"
+    ],
+    "auto_metadata": {
+      "source": "cong_tac_phi.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Quy trình thanh toán công tác phí",
+      "entities": [
+        "công tác phí",
+        "phiếu công tác",
+        "boarding pass",
+        "hóa đơn khách sạn"
+      ],
+      "category": "finance",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "58b80dde1f4785d07f31c7b0d5e471466def8736fff1dafd84cc0a7d0f474d7c": {
+    "original_text": "# Quy trình đánh giá hiệu suất\n> Phiên bản: 2.0 | Ngày hiệu lực: 01/06/2024 | Phòng ban: Nhân sự",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu, nói về quy trình đánh giá hiệu suất trong tổ chức.\n\n# Quy trình đánh giá hiệu suất\n> Phiên bản: 2.0 | Ngày hiệu lực: 01/06/2024 | Phòng ban: Nhân sự",
+    "summary": "Đoạn văn giới thiệu về quy trình đánh giá hiệu suất trong tổ chức, bao gồm thông tin về phiên bản và ngày hiệu lực. Nó thuộc về phòng ban nhân sự.",
+    "hypothesis_questions": [
+      "Quy trình đánh giá hiệu suất là gì?",
+      "Phiên bản hiện tại của quy trình là bao nhiêu?",
+      "Ngày hiệu lực của quy trình này khi nào?"
+    ],
+    "auto_metadata": {
+      "source": "danh_gia_hieu_suat.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Quy trình đánh giá hiệu suất",
+      "entities": [
+        "Nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "136200c951fe1a1d0ff68afd7593effdef4f5450cb3cda971134193414f28ebc": {
+    "original_text": "## Chu kỳ đánh giá\nĐánh giá hiệu suất được thực hiện **2 lần/năm** vào tháng 6 và tháng 12. Kết quả đánh giá giữa năm (tháng 6) dùng để điều chỉnh mục tiêu, kết quả cuối năm (tháng 12) dùng để xét tăng lương và thưởng.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về đánh giá hiệu suất, nói về quy trình và thời gian thực hiện đánh giá.\n\n## Chu kỳ đánh giá\nĐánh giá hiệu suất được thực hiện **2 lần/năm** vào tháng 6 và tháng 12. Kết quả đánh giá giữa năm (tháng 6) dùng để điều chỉnh mục tiêu, kết quả cuối năm (tháng 12) dùng để xét tăng lương và thưởng.",
+    "summary": "Đoạn văn mô tả chu kỳ đánh giá hiệu suất trong một năm, được thực hiện hai lần vào tháng 6 và tháng 12. Kết quả đánh giá giữa năm được sử dụng để điều chỉnh mục tiêu, trong khi kết quả cuối năm được dùng để xét tăng lương và thưởng.",
+    "hypothesis_questions": [
+      "Chu kỳ đánh giá hiệu suất diễn ra vào tháng nào?",
+      "Kết quả đánh giá giữa năm có tác dụng gì?",
+      "Kết quả đánh giá cuối năm được sử dụng để làm gì?"
+    ],
+    "auto_metadata": {
+      "source": "danh_gia_hieu_suat.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Đánh giá hiệu suất",
+      "entities": [
+        "đánh giá hiệu suất",
+        "mục tiêu",
+        "tăng lương",
+        "thưởng"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "d45fe1d2b6d01afc61aaa15526fd300fab2771201fdf1aa24aca8ff6625efde2": {
+    "original_text": "## Cơ cấu đánh giá\n- **KPI cá nhân**: chiếm **70%** tổng điểm, do quản lý trực tiếp đánh giá dựa trên mục tiêu đã thống nhất đầu kỳ\n- **Peer review**: chiếm **30%** tổng điểm, do 3-5 đồng nghiệp đánh giá về tinh thần hợp tác, giao tiếp và chuyên môn",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về đánh giá hiệu suất, nói về cơ cấu và phương pháp đánh giá hiệu suất làm việc.\n\n## Cơ cấu đánh giá\n- **KPI cá nhân**: chiếm **70%** tổng điểm, do quản lý trực tiếp đánh giá dựa trên mục tiêu đã thống nhất đầu kỳ\n- **Peer review**: chiếm **30%** tổng điểm, do 3-5 đồng nghiệp đánh giá về tinh thần hợp tác, giao tiếp và chuyên môn",
+    "summary": "Đoạn văn mô tả cơ cấu đánh giá hiệu suất làm việc, trong đó KPI cá nhân chiếm 70% tổng điểm và được đánh giá bởi quản lý trực tiếp, trong khi peer review chiếm 30% tổng điểm và được thực hiện bởi 3-5 đồng nghiệp. Cách đánh giá này nhằm đảm bảo tính khách quan và toàn diện trong việc đánh giá hiệu suất.",
+    "hypothesis_questions": [
+      "KPI cá nhân chiếm bao nhiêu phần trăm trong tổng điểm?",
+      "Ai là người thực hiện đánh giá KPI cá nhân?",
+      "Peer review được thực hiện bởi ai?"
+    ],
+    "auto_metadata": {
+      "source": "danh_gia_hieu_suat.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Đánh giá hiệu suất",
+      "entities": [
+        "KPI",
+        "Peer review",
+        "quản lý",
+        "đồng nghiệp"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "ad99be3182983794eb731a033397367b7e5adbdf3f720e06db1379784a076cb0": {
+    "original_text": "## Thang điểm\n| Xếp loại | Điểm | Mô tả |\n|-----------|-------|--------|\n| Xuất sắc | 4.5-5.0 | Vượt xa kỳ vọng |\n| Tốt | 3.5-4.4 | Đáp ứng và vượt kỳ vọng |\n| Đạt | 2.5-3.4 | Đáp ứng kỳ vọng cơ bản |\n| Cần cải thiện | <2.5 | Chưa đáp ứng kỳ vọng |",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về đánh giá hiệu suất, cung cấp thông tin về cách phân loại và đánh giá hiệu suất làm việc.\n\n## Thang điểm\n| Xếp loại | Điểm | Mô tả |\n|-----------|-------|--------|\n| Xuất sắc | 4.5-5.0 | Vượt xa kỳ vọng |\n| Tốt | 3.5-4.4 | Đáp ứng và vượt kỳ vọng |\n| Đạt | 2.5-3.4 | Đáp ứng kỳ vọng cơ bản |\n| Cần cải thiện | <2.5 | Chưa đáp ứng kỳ vọng |",
+    "summary": "Đoạn văn trình bày thang điểm đánh giá hiệu suất với các xếp loại từ 'Xuất sắc' đến 'Cần cải thiện'. Mỗi xếp loại đi kèm với một khoảng điểm và mô tả ngắn gọn về mức độ đáp ứng kỳ vọng.",
+    "hypothesis_questions": [
+      "Thang điểm đánh giá hiệu suất gồm những xếp loại nào?",
+      "Mô tả xếp loại 'Tốt' trong thang điểm?",
+      "Điểm tối thiểu để đạt xếp loại 'Đạt' là bao nhiêu?"
+    ],
+    "auto_metadata": {
+      "source": "danh_gia_hieu_suat.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Đánh giá hiệu suất",
+      "entities": [
+        "thang điểm",
+        "xếp loại",
+        "điểm"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "82b07006a2eff5bc8249c05baec2c3c22041643113ba124a0213d7f2af4ae443": {
+    "original_text": "# Chính sách đào tạo nội bộ\n> Phiên bản: 1.3 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Nhân sự & Đào tạo",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu và nói về chính sách đào tạo nội bộ trong tổ chức.\n\n# Chính sách đào tạo nội bộ\n> Phiên bản: 1.3 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Nhân sự & Đào tạo",
+    "summary": "Đoạn văn giới thiệu về chính sách đào tạo nội bộ của tổ chức, bao gồm thông tin về phiên bản và ngày hiệu lực. Chính sách này thuộc phòng ban Nhân sự & Đào tạo.",
+    "hypothesis_questions": [
+      "Chính sách đào tạo nội bộ có những nội dung gì?",
+      "Ai là người phụ trách chính sách này?",
+      "Ngày hiệu lực của chính sách là khi nào?"
+    ],
+    "auto_metadata": {
+      "source": "dao_tao_noi_bo.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách đào tạo",
+      "entities": [
+        "Nhân sự",
+        "Đào tạo"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "027695d785cc32a31487d6b575718e47065cae8a90b41f0463ee7a99f00558cb": {
+    "original_text": "## Yêu cầu đào tạo\nMỗi phòng ban phải tổ chức tối thiểu **2 buổi đào tạo/quý** về chuyên môn hoặc kỹ năng mềm. Nhân viên mới (trong 6 tháng đầu) **bắt buộc** tham gia tất cả các buổi đào tạo của phòng ban.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về đào tạo nội bộ, nói về yêu cầu tổ chức đào tạo cho nhân viên.\n\n## Yêu cầu đào tạo\nMỗi phòng ban phải tổ chức tối thiểu **2 buổi đào tạo/quý** về chuyên môn hoặc kỹ năng mềm. Nhân viên mới (trong 6 tháng đầu) **bắt buộc** tham gia tất cả các buổi đào tạo của phòng ban.",
+    "summary": "Đoạn văn nêu rõ yêu cầu về việc tổ chức đào tạo trong các phòng ban, với tối thiểu 2 buổi đào tạo mỗi quý. Nhân viên mới trong 6 tháng đầu phải tham gia tất cả các buổi đào tạo của phòng ban.",
+    "hypothesis_questions": [
+      "Mỗi phòng ban cần tổ chức bao nhiêu buổi đào tạo mỗi quý?",
+      "Ai là đối tượng bắt buộc tham gia các buổi đào tạo?",
+      "Đào tạo về chuyên môn hay kỹ năng nào được yêu cầu?"
+    ],
+    "auto_metadata": {
+      "source": "dao_tao_noi_bo.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Đào tạo nội bộ",
+      "entities": [
+        "phòng ban",
+        "nhân viên mới",
+        "đào tạo"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "15cb3191251acfc0a3fb57b3769c0f8e1c3dd02da24be3f33de348982536fb1c": {
+    "original_text": "## Ngân sách đào tạo\nCông ty dành ngân sách đào tạo **5.000.000 VNĐ/người/năm** cho các khóa học bên ngoài. Nhân viên có thể đăng ký khóa học qua hệ thống Learning Portal và cần phê duyệt của trưởng phòng.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về đào tạo nội bộ, nói về ngân sách và quy trình đăng ký khóa học cho nhân viên.\n\n## Ngân sách đào tạo\nCông ty dành ngân sách đào tạo **5.000.000 VNĐ/người/năm** cho các khóa học bên ngoài. Nhân viên có thể đăng ký khóa học qua hệ thống Learning Portal và cần phê duyệt của trưởng phòng.",
+    "summary": "Công ty quy định ngân sách đào tạo là 5.000.000 VNĐ/người/năm cho các khóa học bên ngoài. Nhân viên cần đăng ký qua hệ thống Learning Portal và được trưởng phòng phê duyệt.",
+    "hypothesis_questions": [
+      "Ngân sách đào tạo cho mỗi nhân viên là bao nhiêu?",
+      "Nhân viên cần làm gì để đăng ký khóa học?",
+      "Ai là người phê duyệt đăng ký khóa học?"
+    ],
+    "auto_metadata": {
+      "source": "dao_tao_noi_bo.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Ngân sách đào tạo",
+      "entities": [
+        "Công ty",
+        "Nhân viên",
+        "Khóa học",
+        "Learning Portal",
+        "Trưởng phòng"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "1e010667f1de91b5cc95972a4b88b7900d2e4ff09defd5e02abcacd0ab85d372": {
+    "original_text": "## Đánh giá hiệu quả\nSau mỗi khóa đào tạo, nhân viên cần hoàn thành bài đánh giá và khảo sát phản hồi. Phòng Đào tạo tổng hợp kết quả hàng quý để cải thiện chương trình đào tạo.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về đào tạo nội bộ, nói về quy trình đánh giá hiệu quả của các khóa đào tạo.\n\n## Đánh giá hiệu quả\nSau mỗi khóa đào tạo, nhân viên cần hoàn thành bài đánh giá và khảo sát phản hồi. Phòng Đào tạo tổng hợp kết quả hàng quý để cải thiện chương trình đào tạo.",
+    "summary": "Đoạn văn nói về quy trình đánh giá hiệu quả sau mỗi khóa đào tạo cho nhân viên. Nhân viên phải hoàn thành bài đánh giá và khảo sát phản hồi, và phòng Đào tạo sẽ tổng hợp kết quả hàng quý để cải thiện chương trình đào tạo.",
+    "hypothesis_questions": [
+      "Nhân viên cần làm gì sau mỗi khóa đào tạo?",
+      "Ai là người tổng hợp kết quả đánh giá?",
+      "Mục đích của việc tổng hợp kết quả là gì?"
+    ],
+    "auto_metadata": {
+      "source": "dao_tao_noi_bo.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Đánh giá hiệu quả đào tạo",
+      "entities": [
+        "nhân viên",
+        "khóa đào tạo",
+        "Phòng Đào tạo"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "94cdb155918a646185d37ae3129dbdff1e0b875c527655d42559ca617fefaef8": {
+    "original_text": "# Chính sách hoàn chi đào tạo\n> Phiên bản: 1.1 | Ngày hiệu lực: 01/07/2023 | Phòng ban: Nhân sự & Tài chính",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu hoan_chi_dao_tao.md và nói về chính sách hoàn chi đào tạo trong tổ chức.\n\n# Chính sách hoàn chi đào tạo\n> Phiên bản: 1.1 | Ngày hiệu lực: 01/07/2023 | Phòng ban: Nhân sự & Tài chính",
+    "summary": "Đoạn văn giới thiệu về chính sách hoàn chi đào tạo, bao gồm thông tin về phiên bản và ngày hiệu lực. Chính sách này thuộc phòng ban Nhân sự & Tài chính.",
+    "hypothesis_questions": [
+      "Chính sách hoàn chi đào tạo áp dụng cho ai?",
+      "Có những điều kiện nào để được hoàn chi đào tạo?",
+      "Phiên bản hiện tại của chính sách này là gì?"
+    ],
+    "auto_metadata": {
+      "source": "hoan_chi_dao_tao.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách hoàn chi đào tạo",
+      "entities": [
+        "Nhân sự",
+        "Tài chính"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "7d2a43965883f743561b26decb964eb01a5ea82a8cbba3ca73ac52a00d744d5f": {
+    "original_text": "## Điều kiện được tài trợ\nCông ty chi trả chi phí đào tạo bên ngoài (chứng chỉ, khóa học dài hạn, hội thảo) cho nhân viên có **thâm niên từ 1 năm trở lên**. Chi phí được tài trợ tối đa **30.000.000 VNĐ/khóa** và cần phê duyệt của Giám đốc phòng ban.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về chính sách đào tạo của công ty, nói về điều kiện tài trợ cho nhân viên.\n\n## Điều kiện được tài trợ\nCông ty chi trả chi phí đào tạo bên ngoài (chứng chỉ, khóa học dài hạn, hội thảo) cho nhân viên có **thâm niên từ 1 năm trở lên**. Chi phí được tài trợ tối đa **30.000.000 VNĐ/khóa** và cần phê duyệt của Giám đốc phòng ban.",
+    "summary": "Đoạn văn nêu rõ điều kiện để nhân viên được tài trợ chi phí đào tạo bên ngoài, bao gồm yêu cầu về thâm niên và mức chi phí tối đa. Nhân viên phải có thâm niên từ 1 năm trở lên và chi phí tối đa được tài trợ là 30.000.000 VNĐ cho mỗi khóa học.",
+    "hypothesis_questions": [
+      "Nhân viên cần có thâm niên bao lâu để được tài trợ?",
+      "Mức chi phí tối đa cho mỗi khóa học là bao nhiêu?",
+      "Ai là người phê duyệt chi phí đào tạo?"
+    ],
+    "auto_metadata": {
+      "source": "hoan_chi_dao_tao.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Chính sách đào tạo nhân viên",
+      "entities": [
+        "Công ty",
+        "Nhân viên",
+        "Giám đốc phòng ban"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "70139911d2248985ff266516584bef3f530627e3eab9fb2db0e053ebd3b5fb25": {
+    "original_text": "## Cam kết hoàn chi\nNhân viên được tài trợ đào tạo phải **cam kết làm việc tại công ty ít nhất 1 năm** sau khi hoàn thành khóa học. Nếu nghỉ việc trước thời hạn cam kết, nhân viên phải hoàn trả **100% chi phí** đào tạo đã được tài trợ.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về chính sách đào tạo của công ty, nói về cam kết của nhân viên sau khi được tài trợ đào tạo.\n\n## Cam kết hoàn chi\nNhân viên được tài trợ đào tạo phải **cam kết làm việc tại công ty ít nhất 1 năm** sau khi hoàn thành khóa học. Nếu nghỉ việc trước thời hạn cam kết, nhân viên phải hoàn trả **100% chi phí** đào tạo đã được tài trợ.",
+    "summary": "Đoạn văn nêu rõ cam kết của nhân viên được tài trợ đào tạo, yêu cầu họ phải làm việc tại công ty ít nhất 1 năm sau khi hoàn thành khóa học. Nếu nhân viên nghỉ việc trước thời hạn cam kết, họ sẽ phải hoàn trả toàn bộ chi phí đào tạo.",
+    "hypothesis_questions": [
+      "Nhân viên cần cam kết làm việc bao lâu sau khi đào tạo?",
+      "Nếu nhân viên nghỉ việc trước thời hạn, họ phải làm gì?",
+      "Chi phí đào tạo sẽ được hoàn trả bao nhiêu phần trăm?"
+    ],
+    "auto_metadata": {
+      "source": "hoan_chi_dao_tao.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Cam kết hoàn chi đào tạo",
+      "entities": [
+        "nhân viên",
+        "công ty",
+        "khóa học",
+        "chi phí đào tạo"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "82631f6ffc1186350ef3a924be3ac26f3918a3d619eacc4ad9a639a57ce393ba": {
+    "original_text": "## Quy trình\n1. Nộp đơn đề xuất đào tạo kèm chương trình chi tiết\n2. Trưởng phòng đánh giá mức độ liên quan đến công việc\n3. Phòng Nhân sự xem xét ngân sách\n4. Ký cam kết hoàn chi trước khi đăng ký khóa học",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quy trình đào tạo, nói về các bước cần thực hiện để đề xuất một chương trình đào tạo.\n\n## Quy trình\n1. Nộp đơn đề xuất đào tạo kèm chương trình chi tiết\n2. Trưởng phòng đánh giá mức độ liên quan đến công việc\n3. Phòng Nhân sự xem xét ngân sách\n4. Ký cam kết hoàn chi trước khi đăng ký khóa học",
+    "summary": "Đoạn văn mô tả quy trình đề xuất đào tạo trong tổ chức, bao gồm các bước từ nộp đơn đến ký cam kết. Quy trình này nhằm đảm bảo sự liên quan của chương trình đào tạo với công việc và ngân sách của phòng nhân sự.",
+    "hypothesis_questions": [
+      "Quy trình đề xuất đào tạo bao gồm những bước nào?",
+      "Ai là người đánh giá mức độ liên quan đến công việc?",
+      "Cần ký cam kết gì trước khi đăng ký khóa học?"
+    ],
+    "auto_metadata": {
+      "source": "hoan_chi_dao_tao.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quy trình đào tạo",
+      "entities": [
+        "Trưởng phòng",
+        "Phòng Nhân sự",
+        "khóa học"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "23ec6825588334d0f6fe2a0fc50ce7da281f22cc81fc328f9c82f6b26845bf0f": {
+    "original_text": "# Quy chế chi trả lương\n> Phiên bản: 1.1 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Tài chính & Nhân sự",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu và nói về quy chế chi trả lương trong tổ chức.\n\n# Quy chế chi trả lương\n> Phiên bản: 1.1 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Tài chính & Nhân sự",
+    "summary": "Đoạn văn giới thiệu về quy chế chi trả lương, bao gồm thông tin về phiên bản và ngày hiệu lực. Nó cũng chỉ ra phòng ban liên quan đến quy chế này.",
+    "hypothesis_questions": [
+      "Quy chế chi trả lương có những nội dung gì?",
+      "Ngày hiệu lực của quy chế này là khi nào?",
+      "Phòng ban nào phụ trách quy chế chi trả lương?"
+    ],
+    "auto_metadata": {
+      "source": "ky_luong.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Quy chế chi trả lương",
+      "entities": [
+        "Tài chính",
+        "Nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "290e11cb95539bce46eed9d1a1e89db9f5c5c6d24d8b1ea87fde2e5a0396c807": {
+    "original_text": "## Ngày chi trả\nLương tháng được chi trả vào **ngày mùng 5** hàng tháng. Nếu ngày 5 rơi vào cuối tuần hoặc ngày lễ, lương được chi trả vào **ngày làm việc liền trước đó**. Lương được chuyển khoản vào tài khoản ngân hàng đã đăng ký.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quy định chi trả lương, nói về ngày chi trả lương hàng tháng.\n\n## Ngày chi trả\nLương tháng được chi trả vào **ngày mùng 5** hàng tháng. Nếu ngày 5 rơi vào cuối tuần hoặc ngày lễ, lương được chi trả vào **ngày làm việc liền trước đó**. Lương được chuyển khoản vào tài khoản ngân hàng đã đăng ký.",
+    "summary": "Đoạn văn mô tả quy định về ngày chi trả lương hàng tháng. Lương sẽ được chi trả vào ngày mùng 5, và nếu ngày này trùng với cuối tuần hoặc ngày lễ, lương sẽ được chuyển vào ngày làm việc trước đó.",
+    "hypothesis_questions": [
+      "Ngày nào lương được chi trả?",
+      "Nếu ngày chi trả trùng với ngày lễ thì sao?",
+      "Lương được chuyển khoản vào đâu?"
+    ],
+    "auto_metadata": {
+      "source": "ky_luong.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Chi trả lương",
+      "entities": [
+        "lương",
+        "ngày chi trả",
+        "ngân hàng"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "6f87fee5aa8a17eac1279ba75229e5f4b4d74e49598e8cbf8dac6b620e55cbe0": {
+    "original_text": "## Lương tháng 13\nNhân viên chính thức được hưởng **lương tháng 13**, chi trả vào tháng 1 hàng năm (trước Tết Nguyên đán). Mức lương tháng 13 bằng 1 tháng lương cơ bản, tính pro-rata cho nhân viên chưa đủ 12 tháng.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu ky_luong.md và nói về chính sách lương thưởng cho nhân viên.\n\n## Lương tháng 13\nNhân viên chính thức được hưởng **lương tháng 13**, chi trả vào tháng 1 hàng năm (trước Tết Nguyên đán). Mức lương tháng 13 bằng 1 tháng lương cơ bản, tính pro-rata cho nhân viên chưa đủ 12 tháng.",
+    "summary": "Đoạn văn nói về lương tháng 13 mà nhân viên chính thức được hưởng, được chi trả vào tháng 1 hàng năm trước Tết Nguyên đán. Mức lương tháng 13 bằng 1 tháng lương cơ bản và được tính pro-rata cho những nhân viên chưa làm đủ 12 tháng.",
+    "hypothesis_questions": [
+      "Lương tháng 13 được chi trả vào thời điểm nào?",
+      "Mức lương tháng 13 được tính như thế nào cho nhân viên chưa đủ 12 tháng?",
+      "Ai là đối tượng được hưởng lương tháng 13?"
+    ],
+    "auto_metadata": {
+      "source": "ky_luong.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Lương tháng 13",
+      "entities": [
+        "nhân viên",
+        "lương cơ bản",
+        "Tết Nguyên đán"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "274075177dfb245e332b1011f17186dea63bcb07000df8a05d7cc8e1b56c76db": {
+    "original_text": "## Phiếu lương\nPhiếu lương điện tử được gửi qua email công ty vào ngày chi trả. Thắc mắc về lương liên hệ phòng Tài chính trong vòng 5 ngày làm việc. Thông tin lương là dữ liệu **Bí mật**, cấm chia sẻ với đồng nghiệp.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định chi trả lương và thông tin liên quan đến phiếu lương.\n\n## Phiếu lương\nPhiếu lương điện tử được gửi qua email công ty vào ngày chi trả. Thắc mắc về lương liên hệ phòng Tài chính trong vòng 5 ngày làm việc. Thông tin lương là dữ liệu **Bí mật**, cấm chia sẻ với đồng nghiệp.",
+    "summary": "Đoạn văn mô tả về phiếu lương điện tử được gửi qua email vào ngày chi trả và quy định liên hệ phòng Tài chính nếu có thắc mắc. Nó cũng nhấn mạnh rằng thông tin lương là bí mật và không được chia sẻ với đồng nghiệp.",
+    "hypothesis_questions": [
+      "Phiếu lương điện tử được gửi qua đâu?",
+      "Ai là người liên hệ nếu có thắc mắc về lương?",
+      "Thông tin lương có được chia sẻ không?"
+    ],
+    "auto_metadata": {
+      "source": "ky_luong.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Phiếu lương điện tử",
+      "entities": [
+        "phòng Tài chính",
+        "email",
+        "thông tin lương"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "60af431eaf512c0baff02bc6b0938c137ed251ef982d8de5df04ca1c01cbc4c0": {
+    "original_text": "# Chính sách làm việc từ xa (WFH)\n> Phiên bản: 2.0 | Ngày hiệu lực: 01/07/2024 | Phòng ban: Nhân sự",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu và nói về chính sách làm việc từ xa trong tổ chức.\n\n# Chính sách làm việc từ xa (WFH)\n> Phiên bản: 2.0 | Ngày hiệu lực: 01/07/2024 | Phòng ban: Nhân sự",
+    "summary": "Đoạn văn giới thiệu về chính sách làm việc từ xa (WFH) với thông tin về phiên bản và ngày hiệu lực. Chính sách này thuộc phòng ban Nhân sự.",
+    "hypothesis_questions": [
+      "Chính sách làm việc từ xa có những điểm gì nổi bật?",
+      "Ngày hiệu lực của chính sách này là khi nào?",
+      "Phòng ban nào phụ trách chính sách làm việc từ xa?"
+    ],
+    "auto_metadata": {
+      "source": "lam_viec_tu_xa.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách làm việc từ xa",
+      "entities": [
+        "Chính sách",
+        "Làm việc từ xa",
+        "Nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "a406a1905a034842c9b079766983997b6331133fadc34cfb9ad98417467c3493": {
+    "original_text": "## Quy định chung\nNhân viên chính thức được phép làm việc từ xa tối đa **2 ngày/tuần**. Lịch WFH phải được đăng ký và phê duyệt bởi quản lý trực tiếp vào **thứ Hai** đầu tuần.",
+    "enriched_text": "Đoạn văn nằm trong phần quy định chung của tài liệu về làm việc từ xa, đề cập đến các quy tắc và quy định liên quan.\n\n## Quy định chung\nNhân viên chính thức được phép làm việc từ xa tối đa **2 ngày/tuần**. Lịch WFH phải được đăng ký và phê duyệt bởi quản lý trực tiếp vào **thứ Hai** đầu tuần.",
+    "summary": "Đoạn văn quy định về việc làm việc từ xa cho nhân viên chính thức, cho phép tối đa 2 ngày mỗi tuần. Lịch làm việc từ xa cần được đăng ký và phê duyệt bởi quản lý vào thứ Hai đầu tuần.",
+    "hypothesis_questions": [
+      "Nhân viên chính thức được làm việc từ xa bao nhiêu ngày mỗi tuần?",
+      "Ai là người phê duyệt lịch làm việc từ xa?",
+      "Lịch WFH cần được đăng ký vào ngày nào?"
+    ],
+    "auto_metadata": {
+      "source": "lam_viec_tu_xa.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Quy định làm việc từ xa",
+      "entities": [
+        "nhân viên",
+        "quản lý",
+        "lịch WFH"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "b804e6c884725bd96a263d5c7dea0aee1ad3a3301104e0e7a02e006c517603f2": {
+    "original_text": "## Yêu cầu kỹ thuật\n- Kết nối **VPN** bắt buộc khi làm việc từ xa\n- Đảm bảo đường truyền internet ổn định (tối thiểu 20Mbps)\n- Sử dụng thiết bị công ty hoặc thiết bị cá nhân đã cài MDM\n- Tham gia đầy đủ các cuộc họp online theo lịch",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn làm việc từ xa, đề cập đến các yêu cầu kỹ thuật cần thiết.\n\n## Yêu cầu kỹ thuật\n- Kết nối **VPN** bắt buộc khi làm việc từ xa\n- Đảm bảo đường truyền internet ổn định (tối thiểu 20Mbps)\n- Sử dụng thiết bị công ty hoặc thiết bị cá nhân đã cài MDM\n- Tham gia đầy đủ các cuộc họp online theo lịch",
+    "summary": "Đoạn văn nêu rõ các yêu cầu kỹ thuật cần thiết khi làm việc từ xa, bao gồm việc sử dụng VPN, đảm bảo đường truyền internet ổn định, sử dụng thiết bị phù hợp và tham gia các cuộc họp online. Những yêu cầu này nhằm đảm bảo hiệu quả công việc và an toàn thông tin.",
+    "hypothesis_questions": [
+      "Tại sao cần sử dụng VPN khi làm việc từ xa?",
+      "Yêu cầu về tốc độ internet là bao nhiêu?",
+      "Thiết bị nào được phép sử dụng khi làm việc từ xa?"
+    ],
+    "auto_metadata": {
+      "source": "lam_viec_tu_xa.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Yêu cầu kỹ thuật làm việc từ xa",
+      "entities": [
+        "VPN",
+        "internet",
+        "thiết bị công ty",
+        "cuộc họp online"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "56ef65220f376dd467b421c90f7063fbd1913328af3e90f8f45359a0df6271ac": {
+    "original_text": "## Hạn chế\nMột số vị trí không được áp dụng WFH: lễ tân, nhân viên kho, bảo vệ, nhân viên vận hành hạ tầng IT. Trong các tuần có sự kiện toàn công ty (All-hands, Team building), WFH không được áp dụng.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về làm việc từ xa, đề cập đến các hạn chế trong việc áp dụng chính sách WFH.\n\n## Hạn chế\nMột số vị trí không được áp dụng WFH: lễ tân, nhân viên kho, bảo vệ, nhân viên vận hành hạ tầng IT. Trong các tuần có sự kiện toàn công ty (All-hands, Team building), WFH không được áp dụng.",
+    "summary": "Đoạn văn nêu rõ các vị trí công việc không được áp dụng chính sách làm việc từ xa (WFH) như lễ tân, nhân viên kho, bảo vệ và nhân viên vận hành hạ tầng IT. Ngoài ra, trong các sự kiện toàn công ty, chính sách WFH cũng không được áp dụng.",
+    "hypothesis_questions": [
+      "Các vị trí nào không được áp dụng WFH?",
+      "Khi nào WFH không được áp dụng?",
+      "Có sự kiện nào ảnh hưởng đến chính sách WFH không?"
+    ],
+    "auto_metadata": {
+      "source": "lam_viec_tu_xa.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Chính sách làm việc từ xa",
+      "entities": [
+        "lễ tân",
+        "nhân viên kho",
+        "bảo vệ",
+        "nhân viên vận hành hạ tầng IT",
+        "sự kiện toàn công ty"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "c53c63cc5063a9bc1128c1e38b8dd6ab9b40173debdd203c1f082d59597d8fb3": {
+    "original_text": "## Đánh giá\nQuyền WFH có thể bị thu hồi nếu nhân viên không đáp ứng KPI hoặc vi phạm quy định WFH quá 2 lần trong 1 quý.",
+    "enriched_text": "Đoạn văn nằm trong phần đánh giá của tài liệu về làm việc từ xa, nói về các điều kiện liên quan đến quyền làm việc từ xa của nhân viên.\n\n## Đánh giá\nQuyền WFH có thể bị thu hồi nếu nhân viên không đáp ứng KPI hoặc vi phạm quy định WFH quá 2 lần trong 1 quý.",
+    "summary": "Đoạn văn đề cập đến việc đánh giá quyền làm việc từ xa (WFH) của nhân viên. Quyền này có thể bị thu hồi nếu nhân viên không đạt KPI hoặc vi phạm quy định WFH quá 2 lần trong một quý.",
+    "hypothesis_questions": [
+      "Quyền WFH có thể bị thu hồi trong những trường hợp nào?",
+      "KPI là gì và tại sao nó quan trọng trong việc đánh giá quyền WFH?",
+      "Có những quy định nào liên quan đến WFH mà nhân viên cần tuân thủ?"
+    ],
+    "auto_metadata": {
+      "source": "lam_viec_tu_xa.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Đánh giá quyền làm việc từ xa",
+      "entities": [
+        "nhân viên",
+        "KPI",
+        "quy định WFH"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "902cf8094e3076ec69b232d7aa237f9c987206f1df6c6888cf4d2afa81251ab0": {
+    "original_text": "# Chính sách mật khẩu (Phiên bản cũ)\n> Phiên bản: 1.0 | Ngày hiệu lực: 01/01/2022 | Phòng ban: CNTT | Trạng thái: ĐÃ THAY THẾ bởi v2.0",
+    "enriched_text": "Đoạn văn nằm trong tài liệu mat_khau_v1.md và nói về chính sách mật khẩu cũ của phòng CNTT.\n\n# Chính sách mật khẩu (Phiên bản cũ)\n> Phiên bản: 1.0 | Ngày hiệu lực: 01/01/2022 | Phòng ban: CNTT | Trạng thái: ĐÃ THAY THẾ bởi v2.0",
+    "summary": "Đoạn văn trình bày thông tin về chính sách mật khẩu phiên bản cũ, bao gồm phiên bản, ngày hiệu lực, phòng ban và trạng thái của tài liệu. Nó cũng chỉ ra rằng phiên bản này đã được thay thế bởi phiên bản 2.0.",
+    "hypothesis_questions": [
+      "Chính sách mật khẩu phiên bản cũ có những thông tin gì?",
+      "Phiên bản mới của chính sách mật khẩu là gì?",
+      "Ngày hiệu lực của chính sách mật khẩu phiên bản cũ là khi nào?"
+    ],
+    "auto_metadata": {
+      "source": "mat_khau_v1.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách mật khẩu",
+      "entities": [
+        "mật khẩu",
+        "CNTT",
+        "chính sách"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "85c1ae2ea56dbf987d74283629e6bdcb9aef4d7501aa030ba9c69430e1a00610": {
+    "original_text": "## Yêu cầu mật khẩu\nMật khẩu phải có tối thiểu **8 ký tự**, bao gồm ít nhất 1 chữ hoa, 1 chữ thường và 1 số. Không được sử dụng tên đăng nhập hoặc các thông tin cá nhân dễ đoán làm mật khẩu.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về yêu cầu mật khẩu, nhằm đảm bảo an toàn thông tin cho người dùng.\n\n## Yêu cầu mật khẩu\nMật khẩu phải có tối thiểu **8 ký tự**, bao gồm ít nhất 1 chữ hoa, 1 chữ thường và 1 số. Không được sử dụng tên đăng nhập hoặc các thông tin cá nhân dễ đoán làm mật khẩu.",
+    "summary": "Đoạn văn nêu rõ yêu cầu về mật khẩu, bao gồm độ dài tối thiểu và các yếu tố cần có trong mật khẩu. Điều này nhằm đảm bảo tính bảo mật cho tài khoản người dùng.",
+    "hypothesis_questions": [
+      "Mật khẩu tối thiểu cần bao nhiêu ký tự?",
+      "Mật khẩu cần có những yếu tố gì?",
+      "Có được sử dụng thông tin cá nhân làm mật khẩu không?"
+    ],
+    "auto_metadata": {
+      "source": "mat_khau_v1.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Yêu cầu mật khẩu",
+      "entities": [
+        "mật khẩu",
+        "chữ hoa",
+        "chữ thường",
+        "số"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "da81f438594ad964030bce43b5d6d06d45023499af2b03dddb8af2f328b882e5": {
+    "original_text": "## Chu kỳ thay đổi\nMật khẩu phải được thay đổi **mỗi 90 ngày**. Hệ thống sẽ tự động nhắc nhở trước 7 ngày. Mật khẩu mới không được trùng với 3 mật khẩu gần nhất.",
+    "enriched_text": "Đoạn văn nằm trong phần quy định về bảo mật mật khẩu trong tài liệu, nói về chu kỳ thay đổi mật khẩu.\n\n## Chu kỳ thay đổi\nMật khẩu phải được thay đổi **mỗi 90 ngày**. Hệ thống sẽ tự động nhắc nhở trước 7 ngày. Mật khẩu mới không được trùng với 3 mật khẩu gần nhất.",
+    "summary": "Đoạn văn quy định rằng mật khẩu cần được thay đổi mỗi 90 ngày và hệ thống sẽ nhắc nhở người dùng trước 7 ngày. Ngoài ra, mật khẩu mới không được trùng với 3 mật khẩu gần nhất.",
+    "hypothesis_questions": [
+      "Mật khẩu cần thay đổi sau bao lâu?",
+      "Hệ thống sẽ nhắc nhở người dùng khi nào?",
+      "Mật khẩu mới có thể trùng với mật khẩu nào không?"
+    ],
+    "auto_metadata": {
+      "source": "mat_khau_v1.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Quy định bảo mật mật khẩu",
+      "entities": [
+        "mật khẩu",
+        "chu kỳ thay đổi",
+        "nhắc nhở"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "abe5f7e3dfd0f20509116eb65c60bc5b5d59721a4f2671ac944aa6791ab96487": {
+    "original_text": "## Lưu ý\nChính sách này đã được thay thế bởi Chính sách mật khẩu v2.0 từ ngày 01/07/2024. Vui lòng tham khảo phiên bản mới để biết quy định hiện hành.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu mat_khau_v1.md và nói về việc thay thế chính sách mật khẩu cũ bằng phiên bản mới.\n\n## Lưu ý\nChính sách này đã được thay thế bởi Chính sách mật khẩu v2.0 từ ngày 01/07/2024. Vui lòng tham khảo phiên bản mới để biết quy định hiện hành.",
+    "summary": "Chính sách mật khẩu v1.0 đã được thay thế bởi Chính sách mật khẩu v2.0 từ ngày 01/07/2024. Người dùng được khuyến nghị tham khảo phiên bản mới để nắm rõ quy định hiện hành.",
+    "hypothesis_questions": [
+      "Chính sách mật khẩu v1.0 có hiệu lực đến khi nào?",
+      "Chính sách mật khẩu v2.0 có những điểm gì mới?",
+      "Người dùng cần làm gì sau khi chính sách mới được ban hành?"
+    ],
+    "auto_metadata": {
+      "source": "mat_khau_v1.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Chính sách mật khẩu",
+      "entities": [
+        "Chính sách mật khẩu v1.0",
+        "Chính sách mật khẩu v2.0"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "3699974af54b543479386247723829688fe8e65997457ae8d0fbcb600b6e755e": {
+    "original_text": "# Chính sách mật khẩu (Phiên bản hiện hành)\n> Phiên bản: 2.0 | Ngày hiệu lực: 01/07/2024 | Phòng ban: CNTT",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu, nói về chính sách mật khẩu trong tổ chức.\n\n# Chính sách mật khẩu (Phiên bản hiện hành)\n> Phiên bản: 2.0 | Ngày hiệu lực: 01/07/2024 | Phòng ban: CNTT",
+    "summary": "Đoạn văn giới thiệu về chính sách mật khẩu phiên bản 2.0, có hiệu lực từ ngày 01/07/2024 và thuộc phòng ban CNTT. Đây là thông tin quan trọng liên quan đến việc quản lý mật khẩu trong tổ chức.",
+    "hypothesis_questions": [
+      "Chính sách mật khẩu này có hiệu lực từ khi nào?",
+      "Phiên bản hiện tại của chính sách mật khẩu là bao nhiêu?",
+      "Phòng ban nào chịu trách nhiệm về chính sách mật khẩu này?"
+    ],
+    "auto_metadata": {
+      "source": "mat_khau_v2.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách mật khẩu",
+      "entities": [
+        "mật khẩu",
+        "CNTT"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "81851c8d6e78a1f0f9c1689f537488e95b1eeb1545d14a7937e342f2b3a12a62": {
+    "original_text": "## Yêu cầu mật khẩu\nMật khẩu phải có tối thiểu **12 ký tự**, bao gồm ít nhất 1 chữ hoa, 1 chữ thường, 1 số và 1 ký tự đặc biệt (!@#$%^&*). Khuyến khích sử dụng passphrase dài hơn 16 ký tự.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về yêu cầu mật khẩu, đề cập đến các tiêu chí bảo mật cần thiết.\n\n## Yêu cầu mật khẩu\nMật khẩu phải có tối thiểu **12 ký tự**, bao gồm ít nhất 1 chữ hoa, 1 chữ thường, 1 số và 1 ký tự đặc biệt (!@#$%^&*). Khuyến khích sử dụng passphrase dài hơn 16 ký tự.",
+    "summary": "Đoạn văn nêu rõ yêu cầu về mật khẩu, bao gồm độ dài tối thiểu và các loại ký tự cần có. Nó cũng khuyến khích người dùng sử dụng passphrase dài hơn 16 ký tự để tăng cường bảo mật.",
+    "hypothesis_questions": [
+      "Mật khẩu tối thiểu cần bao nhiêu ký tự?",
+      "Mật khẩu cần có những loại ký tự nào?",
+      "Tại sao nên sử dụng passphrase dài hơn 16 ký tự?"
+    ],
+    "auto_metadata": {
+      "source": "mat_khau_v2.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Yêu cầu mật khẩu",
+      "entities": [
+        "mật khẩu",
+        "ký tự",
+        "bảo mật"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "b4c862b1bd69f2a2f028d2e14976e975a6e3c10e6c456265b11f974133844967": {
+    "original_text": "## Xác thực đa yếu tố (MFA)\nTất cả nhân viên **bắt buộc** kích hoạt MFA cho tài khoản email, VPN và các hệ thống nội bộ. Phương thức MFA được chấp nhận: ứng dụng Authenticator (ưu tiên), SMS OTP, hoặc YubiKey.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về bảo mật thông tin và đề cập đến yêu cầu về xác thực đa yếu tố cho nhân viên.\n\n## Xác thực đa yếu tố (MFA)\nTất cả nhân viên **bắt buộc** kích hoạt MFA cho tài khoản email, VPN và các hệ thống nội bộ. Phương thức MFA được chấp nhận: ứng dụng Authenticator (ưu tiên), SMS OTP, hoặc YubiKey.",
+    "summary": "Đoạn văn đề cập đến việc tất cả nhân viên phải kích hoạt xác thực đa yếu tố (MFA) cho tài khoản email, VPN và các hệ thống nội bộ. Các phương thức MFA được chấp nhận bao gồm ứng dụng Authenticator, SMS OTP và YubiKey.",
+    "hypothesis_questions": [
+      "MFA là gì?",
+      "Tại sao nhân viên cần kích hoạt MFA?",
+      "Có những phương thức MFA nào được chấp nhận?"
+    ],
+    "auto_metadata": {
+      "source": "mat_khau_v2.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Xác thực đa yếu tố",
+      "entities": [
+        "MFA",
+        "email",
+        "VPN",
+        "hệ thống nội bộ",
+        "Authenticator",
+        "SMS OTP",
+        "YubiKey"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "6615240dbbd5c8b8cb2533597552d03654ee37b24c227664a30b9eddbbeff8ad": {
+    "original_text": "## Chu kỳ thay đổi\nMật khẩu phải được thay đổi **mỗi 120 ngày**. Hệ thống tự động nhắc nhở trước 14 ngày. Mật khẩu mới không được trùng với 5 mật khẩu gần nhất. Tài khoản bị khóa sau 5 lần nhập sai liên tiếp.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quản lý mật khẩu và đề cập đến quy định thay đổi mật khẩu.\n\n## Chu kỳ thay đổi\nMật khẩu phải được thay đổi **mỗi 120 ngày**. Hệ thống tự động nhắc nhở trước 14 ngày. Mật khẩu mới không được trùng với 5 mật khẩu gần nhất. Tài khoản bị khóa sau 5 lần nhập sai liên tiếp.",
+    "summary": "Đoạn văn quy định về chu kỳ thay đổi mật khẩu, yêu cầu thay đổi mật khẩu mỗi 120 ngày và hệ thống sẽ nhắc nhở trước 14 ngày. Ngoài ra, mật khẩu mới không được trùng với 5 mật khẩu gần nhất và tài khoản sẽ bị khóa sau 5 lần nhập sai liên tiếp.",
+    "hypothesis_questions": [
+      "Mật khẩu cần thay đổi sau bao lâu?",
+      "Hệ thống nhắc nhở người dùng khi nào?",
+      "Tài khoản sẽ bị khóa sau bao nhiêu lần nhập sai?"
+    ],
+    "auto_metadata": {
+      "source": "mat_khau_v2.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quy định về mật khẩu",
+      "entities": [
+        "mật khẩu",
+        "tài khoản",
+        "nhắc nhở"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "80e781f890ad12f990e02325e25917db9b9fe8fb68a922e006de10367df7f20f": {
+    "original_text": "## Chính sách thay thế\nVăn bản này thay thế Chính sách mật khẩu v1.0 ban hành ngày 01/01/2022.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu mat_khau_v2.md và nói về việc cập nhật chính sách mật khẩu.\n\n## Chính sách thay thế\nVăn bản này thay thế Chính sách mật khẩu v1.0 ban hành ngày 01/01/2022.",
+    "summary": "Đoạn văn thông báo về việc thay thế Chính sách mật khẩu v1.0 bằng một phiên bản mới hơn. Ngày ban hành của phiên bản cũ là 01/01/2022.",
+    "hypothesis_questions": [
+      "Chính sách mật khẩu v1.0 được ban hành vào khi nào?",
+      "Chính sách nào được thay thế bởi văn bản này?",
+      "Có thông tin gì về phiên bản mới không?"
+    ],
+    "auto_metadata": {
+      "source": "mat_khau_v2.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Chính sách mật khẩu",
+      "entities": [
+        "Chính sách mật khẩu v1.0",
+        "Chính sách mật khẩu v2.0"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "e08c79f58f27b8b971296053b843ed29b83f52cf6bd3e9f7604589290278c479": {
+    "original_text": "# Chương trình Mentor & Buddy\n> Phiên bản: 1.0 | Ngày hiệu lực: 01/06/2024 | Phòng ban: Nhân sự",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu, giới thiệu về chương trình Mentor & Buddy trong lĩnh vực nhân sự.\n\n# Chương trình Mentor & Buddy\n> Phiên bản: 1.0 | Ngày hiệu lực: 01/06/2024 | Phòng ban: Nhân sự",
+    "summary": "Đoạn văn giới thiệu về chương trình Mentor & Buddy, bao gồm thông tin về phiên bản và ngày hiệu lực của chương trình. Chương trình này thuộc phòng ban Nhân sự.",
+    "hypothesis_questions": [
+      "Chương trình Mentor & Buddy có những mục tiêu gì?",
+      "Ai là đối tượng tham gia chương trình?",
+      "Cách thức hoạt động của chương trình ra sao?"
+    ],
+    "auto_metadata": {
+      "source": "mentor_buddy.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chương trình Mentor & Buddy",
+      "entities": [
+        "Mentor",
+        "Buddy",
+        "Nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "888e895b20547e4855ec9446bf33cc495f16b28719e623f561443f5ac9bacb06": {
+    "original_text": "## Phân biệt Mentor và Buddy - **Mentor**: hỗ trợ **chuyên môn kỹ thuật**, hướng dẫn phát triển nghề nghiệp, chia sẻ kiến thức chuyên sâu. Mentor phải là nhân viên cấp Senior trở lên, khác phòng ban hoặc cùng phòng ban nhưng không phải quản lý trực tiếp.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về vai trò của Mentor và Buddy trong môi trường làm việc, tập trung vào việc phát triển nghề nghiệp.\n\n## Phân biệt Mentor và Buddy - **Mentor**: hỗ trợ **chuyên môn kỹ thuật**, hướng dẫn phát triển nghề nghiệp, chia sẻ kiến thức chuyên sâu. Mentor phải là nhân viên cấp Senior trở lên, khác phòng ban hoặc cùng phòng ban nhưng không phải quản lý trực tiếp.",
+    "summary": "Đoạn văn phân biệt giữa Mentor và Buddy, trong đó định nghĩa vai trò của Mentor là hỗ trợ chuyên môn kỹ thuật và phát triển nghề nghiệp. Mentor cần phải là nhân viên cấp Senior trở lên và không phải là quản lý trực tiếp của người được hướng dẫn.",
+    "hypothesis_questions": [
+      "Mentor có vai trò gì trong việc phát triển nghề nghiệp?",
+      "Ai có thể trở thành Mentor?",
+      "Mentor cần phải có cấp bậc nào trong tổ chức?"
+    ],
+    "auto_metadata": {
+      "source": "mentor_buddy.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Phân biệt vai trò Mentor và Buddy",
+      "entities": [
+        "Mentor",
+        "Buddy",
+        "nhân viên cấp Senior"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "d07fa24773b152967e0953a3f3af041d719c0c309876d7ed5402d090f9ce7d42": {
+    "original_text": "- **Buddy**: hỗ trợ **văn hóa và hòa nhập**, giúp nhân viên mới làm quen môi trường, giới thiệu đồng nghiệp, hướng dẫn quy trình hàng ngày. Buddy là nhân viên cùng phòng ban, thâm niên từ 6 tháng.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về chương trình Buddy, nói về vai trò và trách nhiệm của Buddy trong việc hỗ trợ nhân viên mới.\n\n- **Buddy**: hỗ trợ **văn hóa và hòa nhập**, giúp nhân viên mới làm quen môi trường, giới thiệu đồng nghiệp, hướng dẫn quy trình hàng ngày. Buddy là nhân viên cùng phòng ban, thâm niên từ 6 tháng.",
+    "summary": "Đoạn văn mô tả vai trò của Buddy trong việc hỗ trợ văn hóa và hòa nhập cho nhân viên mới. Buddy giúp nhân viên mới làm quen với môi trường làm việc, giới thiệu đồng nghiệp và hướng dẫn quy trình hàng ngày.",
+    "hypothesis_questions": [
+      "Buddy là ai?",
+      "Vai trò của Buddy trong công ty là gì?",
+      "Ai có thể trở thành Buddy?"
+    ],
+    "auto_metadata": {
+      "source": "mentor_buddy.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Chương trình Buddy",
+      "entities": [
+        "Buddy",
+        "nhân viên mới",
+        "văn hóa",
+        "hòa nhập"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "cb198a8ac11ce00981b13de468c9001cb853543bb119264b190699765e4601de": {
+    "original_text": "## Quy tắc quan trọng\nMentor và Buddy phải là **hai người khác nhau** để đảm bảo nhân viên mới có nhiều nguồn hỗ trợ đa dạng. Quản lý trực tiếp không được làm Mentor hoặc Buddy.",
+    "enriched_text": "Đoạn văn nằm trong phần quy tắc quan trọng của tài liệu, nói về việc phân chia vai trò hỗ trợ cho nhân viên mới.\n\n## Quy tắc quan trọng\nMentor và Buddy phải là **hai người khác nhau** để đảm bảo nhân viên mới có nhiều nguồn hỗ trợ đa dạng. Quản lý trực tiếp không được làm Mentor hoặc Buddy.",
+    "summary": "Đoạn văn nêu rõ quy tắc rằng Mentor và Buddy phải là hai người khác nhau để cung cấp sự hỗ trợ đa dạng cho nhân viên mới. Ngoài ra, quản lý trực tiếp không được đảm nhận vai trò Mentor hoặc Buddy.",
+    "hypothesis_questions": [
+      "Tại sao Mentor và Buddy phải là hai người khác nhau?",
+      "Ai không được làm Mentor hoặc Buddy?",
+      "Lợi ích của việc có nhiều nguồn hỗ trợ cho nhân viên mới là gì?"
+    ],
+    "auto_metadata": {
+      "source": "mentor_buddy.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quy tắc hỗ trợ nhân viên mới",
+      "entities": [
+        "Mentor",
+        "Buddy",
+        "nhân viên mới",
+        "quản lý"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "c983465d2c2ab2bf1624191bbc55fc7967fa63207e11ae5c0c1798e81577f4b4": {
+    "original_text": "## Thời gian chương trình\nBuddy hỗ trợ trong 3 tháng đầu. Mentor đồng hành trong 6 tháng đầu. Sau đó, nhân viên có thể tự chọn mentor dài hạn thông qua chương trình Mentor tự nguyện.",
+    "enriched_text": "Đoạn văn nằm trong phần mô tả thời gian của chương trình hỗ trợ nhân viên mới trong tài liệu mentor_buddy.md.\n\n## Thời gian chương trình\nBuddy hỗ trợ trong 3 tháng đầu. Mentor đồng hành trong 6 tháng đầu. Sau đó, nhân viên có thể tự chọn mentor dài hạn thông qua chương trình Mentor tự nguyện.",
+    "summary": "Đoạn văn mô tả thời gian hỗ trợ của chương trình Buddy và Mentor cho nhân viên mới. Buddy hỗ trợ trong 3 tháng đầu, trong khi Mentor đồng hành trong 6 tháng đầu, sau đó nhân viên có thể chọn mentor dài hạn qua chương trình tự nguyện.",
+    "hypothesis_questions": [
+      "Chương trình Buddy hỗ trợ trong bao lâu?",
+      "Mentor đồng hành với nhân viên trong thời gian nào?",
+      "Nhân viên có thể chọn mentor dài hạn như thế nào?"
+    ],
+    "auto_metadata": {
+      "source": "mentor_buddy.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Chương trình hỗ trợ nhân viên",
+      "entities": [
+        "Buddy",
+        "Mentor",
+        "nhân viên"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "a9ae25e3e66154c5b1afa06b5c9305f89f81118f50dd5ad8d898a4aadd9e4dbe": {
+    "original_text": "# Quy trình mua sắm\n> Phiên bản: 2.2 | Ngày hiệu lực: 01/04/2024 | Phòng ban: Hành chính & Tài chính",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu mua_sam.md và nói về quy trình mua sắm trong tổ chức.\n\n# Quy trình mua sắm\n> Phiên bản: 2.2 | Ngày hiệu lực: 01/04/2024 | Phòng ban: Hành chính & Tài chính",
+    "summary": "Đoạn văn giới thiệu về quy trình mua sắm, bao gồm thông tin về phiên bản và ngày hiệu lực. Nó thuộc về phòng ban Hành chính & Tài chính.",
+    "hypothesis_questions": [
+      "Quy trình mua sắm này có những bước nào?",
+      "Ai là người phụ trách quy trình này?",
+      "Có thay đổi gì trong phiên bản 2.2 so với phiên bản trước không?"
+    ],
+    "auto_metadata": {
+      "source": "mua_sam.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Quy trình mua sắm",
+      "entities": [
+        "Hành chính",
+        "Tài chính"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "b6ec3ba47ca3997ddb338fc12fde129987e50bf5ad5e1d60ef161d78ed69f746": {
+    "original_text": "## Thẩm quyền phê duyệt | Giá trị đơn hàng | Người phê duyệt | |-------------------|-----------------| | Dưới **5.000.000 VNĐ** | Trưởng phòng (Manager) | | Từ **5.000.000 - 50.000.000 VNĐ** | Giám đốc phòng ban (Director) |",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy trình mua sắm, nói về thẩm quyền phê duyệt đơn hàng theo giá trị.\n\n## Thẩm quyền phê duyệt | Giá trị đơn hàng | Người phê duyệt | |-------------------|-----------------| | Dưới **5.000.000 VNĐ** | Trưởng phòng (Manager) | | Từ **5.000.000 - 50.000.000 VNĐ** | Giám đốc phòng ban (Director) |",
+    "summary": "Đoạn văn trình bày về thẩm quyền phê duyệt đơn hàng dựa trên giá trị của đơn hàng. Cụ thể, trưởng phòng sẽ phê duyệt các đơn hàng dưới 5 triệu VNĐ, trong khi giám đốc phòng ban sẽ phê duyệt các đơn hàng từ 5 triệu đến 50 triệu VNĐ.",
+    "hypothesis_questions": [
+      "Ai là người phê duyệt đơn hàng dưới 5 triệu VNĐ?",
+      "Giá trị đơn hàng nào cần giám đốc phòng ban phê duyệt?",
+      "Có bao nhiêu mức giá trị đơn hàng được đề cập trong đoạn văn?"
+    ],
+    "auto_metadata": {
+      "source": "mua_sam.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Thẩm quyền phê duyệt đơn hàng",
+      "entities": [
+        "Trưởng phòng",
+        "Giám đốc phòng ban",
+        "đơn hàng",
+        "giá trị"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "73d7a9e04224d73458cbea9a342697957a3eee41b6ca3ccf62b531c1b5e96ed6": {
+    "original_text": "| Trên **50.000.000 VNĐ** | Tổng Giám đốc (CEO) |",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về mua sắm và nói về mức chi tiêu liên quan đến vị trí lãnh đạo trong tổ chức.\n\n| Trên **50.000.000 VNĐ** | Tổng Giám đốc (CEO) |",
+    "summary": "Đoạn văn đề cập đến mức chi tiêu trên 50 triệu VNĐ liên quan đến vị trí Tổng Giám đốc (CEO). Đây có thể là một thông tin về ngân sách hoặc chi phí trong một tổ chức.",
+    "hypothesis_questions": [
+      "Mức chi tiêu này có ý nghĩa gì đối với Tổng Giám đốc?",
+      "Có những yếu tố nào ảnh hưởng đến mức chi tiêu này?",
+      "Liệu có quy định nào liên quan đến chi tiêu của CEO không?"
+    ],
+    "auto_metadata": {
+      "source": "mua_sam.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Chi tiêu và quản lý ngân sách",
+      "entities": [
+        "Tổng Giám đốc",
+        "chi tiêu",
+        "ngân sách"
+      ],
+      "category": "finance",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "9cf79a679f1b4cfbe7774c380b4613f9e9852ebd89f55d8686c39b65cf3699b1": {
+    "original_text": "## Quy trình đề xuất\n1. Tạo phiếu đề xuất mua sắm trên hệ thống Procurement Portal\n2. Đính kèm ít nhất 3 báo giá cho đơn hàng trên 10.000.000 VNĐ\n3. Chờ phê duyệt theo thẩm quyền tương ứng\n4. Phòng Mua sắm đặt hàng và theo dõi giao nhận",
+    "enriched_text": "Đoạn văn nằm trong tài liệu mua_sam.md và nói về quy trình đề xuất mua sắm.\n\n## Quy trình đề xuất\n1. Tạo phiếu đề xuất mua sắm trên hệ thống Procurement Portal\n2. Đính kèm ít nhất 3 báo giá cho đơn hàng trên 10.000.000 VNĐ\n3. Chờ phê duyệt theo thẩm quyền tương ứng\n4. Phòng Mua sắm đặt hàng và theo dõi giao nhận",
+    "summary": "Đoạn văn mô tả quy trình đề xuất mua sắm, bao gồm các bước từ việc tạo phiếu đề xuất đến việc theo dõi giao nhận hàng. Quy trình yêu cầu đính kèm báo giá và chờ phê duyệt trước khi thực hiện đặt hàng.",
+    "hypothesis_questions": [
+      "Quy trình đề xuất mua sắm gồm những bước nào?",
+      "Cần đính kèm bao nhiêu báo giá cho đơn hàng trên 10.000.000 VNĐ?",
+      "Ai là người thực hiện đặt hàng và theo dõi giao nhận?"
+    ],
+    "auto_metadata": {
+      "source": "mua_sam.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quy trình mua sắm",
+      "entities": [
+        "phiếu đề xuất",
+        "báo giá",
+        "phê duyệt",
+        "Phòng Mua sắm"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "2d5aa97c33bcfcd10093570f179b60c6e9fdd1e73d4daa058c5d639f234c3eef": {
+    "original_text": "## Lưu ý đặc biệt\nMua sắm thiết bị CNTT (laptop, server, phần mềm) cần có xác nhận của phòng CNTT về cấu hình kỹ thuật trước khi đề xuất. Đơn hàng khẩn cấp có thể bỏ qua yêu cầu 3 báo giá nhưng phải có giải trình bằng văn bản.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quy trình mua sắm thiết bị CNTT.\n\n## Lưu ý đặc biệt\nMua sắm thiết bị CNTT (laptop, server, phần mềm) cần có xác nhận của phòng CNTT về cấu hình kỹ thuật trước khi đề xuất. Đơn hàng khẩn cấp có thể bỏ qua yêu cầu 3 báo giá nhưng phải có giải trình bằng văn bản.",
+    "summary": "Đoạn văn nêu rõ yêu cầu về việc mua sắm thiết bị CNTT, bao gồm việc cần có xác nhận của phòng CNTT về cấu hình kỹ thuật. Ngoài ra, trong trường hợp đơn hàng khẩn cấp, có thể bỏ qua yêu cầu 3 báo giá nhưng cần có giải trình bằng văn bản.",
+    "hypothesis_questions": [
+      "Tại sao cần xác nhận của phòng CNTT trước khi đề xuất mua sắm?",
+      "Trong trường hợp nào có thể bỏ qua yêu cầu 3 báo giá?",
+      "Yêu cầu gì cần có khi bỏ qua yêu cầu báo giá?"
+    ],
+    "auto_metadata": {
+      "source": "mua_sam.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Mua sắm thiết bị CNTT",
+      "entities": [
+        "CNTT",
+        "laptop",
+        "server",
+        "phần mềm"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "040b31449d05ee1f34f48cc3b48adb9894d79f01cdf37d3774e9f56fce117b72": {
+    "original_text": "# Chính sách nghỉ ốm\n> Phiên bản: 1.0 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Nhân sự",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu và nói về chính sách nghỉ ốm trong công ty.\n\n# Chính sách nghỉ ốm\n> Phiên bản: 1.0 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Nhân sự",
+    "summary": "Đoạn văn giới thiệu về chính sách nghỉ ốm của công ty, bao gồm thông tin về phiên bản và ngày hiệu lực. Chính sách này thuộc phòng ban nhân sự.",
+    "hypothesis_questions": [
+      "Chính sách nghỉ ốm có những nội dung gì?",
+      "Ngày hiệu lực của chính sách nghỉ ốm là khi nào?",
+      "Phòng ban nào phụ trách chính sách này?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_om.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách nghỉ ốm",
+      "entities": [
+        "Chính sách",
+        "Nghỉ ốm",
+        "Nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "1ea1aba8e941d8e226ff26524c43939759b023570f01a74018a02b87642c4304": {
+    "original_text": "## Quy định chung\nNhân viên nghỉ ốm phải nộp giấy xác nhận y tế (giấy khám bệnh hoặc giấy ra viện) trong vòng **3 ngày làm việc** kể từ ngày quay lại làm việc. Nếu không có giấy tờ y tế hợp lệ, ngày nghỉ sẽ bị trừ vào phép năm.",
+    "enriched_text": "Đoạn văn nằm trong phần quy định chung của tài liệu và nói về quy định liên quan đến việc nghỉ ốm của nhân viên.\n\n## Quy định chung\nNhân viên nghỉ ốm phải nộp giấy xác nhận y tế (giấy khám bệnh hoặc giấy ra viện) trong vòng **3 ngày làm việc** kể từ ngày quay lại làm việc. Nếu không có giấy tờ y tế hợp lệ, ngày nghỉ sẽ bị trừ vào phép năm.",
+    "summary": "Đoạn văn quy định rằng nhân viên nghỉ ốm cần nộp giấy xác nhận y tế trong vòng 3 ngày làm việc sau khi trở lại. Nếu không có giấy tờ hợp lệ, ngày nghỉ sẽ bị trừ vào phép năm.",
+    "hypothesis_questions": [
+      "Nhân viên cần nộp giấy tờ gì khi nghỉ ốm?",
+      "Thời hạn nộp giấy xác nhận y tế là bao lâu?",
+      "Hậu quả nếu không nộp giấy tờ hợp lệ là gì?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_om.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Quy định nghỉ ốm",
+      "entities": [
+        "nhân viên",
+        "giấy xác nhận y tế",
+        "ngày nghỉ",
+        "phép năm"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "6f223652264210186286a1bd22ca48a906cdf42874d8ace4b78c74371d11fc18": {
+    "original_text": "## Chế độ bảo hiểm Nhân viên được hưởng chế độ nghỉ ốm tối đa **30 ngày/năm** theo bảo hiểm xã hội. Trong thời gian nghỉ ốm có bảo hiểm, nhân viên được hưởng 75% mức lương đóng bảo hiểm.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về chế độ bảo hiểm cho nhân viên, nói về quyền lợi khi nghỉ ốm.\n\n## Chế độ bảo hiểm Nhân viên được hưởng chế độ nghỉ ốm tối đa **30 ngày/năm** theo bảo hiểm xã hội. Trong thời gian nghỉ ốm có bảo hiểm, nhân viên được hưởng 75% mức lương đóng bảo hiểm.",
+    "summary": "Đoạn văn đề cập đến chế độ bảo hiểm cho nhân viên khi nghỉ ốm, cho phép họ nghỉ tối đa 30 ngày trong năm. Trong thời gian nghỉ ốm có bảo hiểm, nhân viên sẽ nhận được 75% mức lương đóng bảo hiểm.",
+    "hypothesis_questions": [
+      "Nhân viên được nghỉ ốm bao nhiêu ngày trong năm?",
+      "Mức lương nhân viên nhận được khi nghỉ ốm là bao nhiêu phần trăm?",
+      "Chế độ nghỉ ốm này thuộc loại bảo hiểm nào?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_om.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Chế độ bảo hiểm nhân viên",
+      "entities": [
+        "nhân viên",
+        "bảo hiểm xã hội",
+        "nghỉ ốm"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "13cc24b15b71c8062bc285838291f34c0f0a193f1bb473a9328f7ba418f4fa53": {
+    "original_text": "Công ty bổ sung thêm 25% để đảm bảo nhân viên nhận đủ 100% lương cơ bản.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về chính sách lương của công ty, nói về việc điều chỉnh lương cho nhân viên.\n\nCông ty bổ sung thêm 25% để đảm bảo nhân viên nhận đủ 100% lương cơ bản.",
+    "summary": "Công ty đã quyết định bổ sung thêm 25% vào lương cơ bản của nhân viên. Điều này nhằm đảm bảo rằng tất cả nhân viên sẽ nhận được 100% lương cơ bản của họ.",
+    "hypothesis_questions": [
+      "Tại sao công ty lại bổ sung 25% lương?",
+      "Ai là đối tượng nhận được 100% lương cơ bản?",
+      "Bổ sung này có ảnh hưởng gì đến ngân sách của công ty không?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_om.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Chính sách lương",
+      "entities": [
+        "công ty",
+        "nhân viên",
+        "lương cơ bản"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "986b0a285728dcb245fe78dcd8d1b614c63a569720562f68614b7d0c41b57950": {
+    "original_text": "## Nghỉ ốm dài hạn\nTrường hợp nghỉ ốm trên 30 ngày/năm, nhân viên cần liên hệ phòng Nhân sự để được hướng dẫn chế độ bảo hiểm dài hạn. Công ty có quyền yêu cầu khám sức khỏe tổng quát trước khi nhân viên quay lại làm việc.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định nghỉ ốm của công ty, nói về quy trình và yêu cầu khi nhân viên nghỉ ốm dài hạn.\n\n## Nghỉ ốm dài hạn\nTrường hợp nghỉ ốm trên 30 ngày/năm, nhân viên cần liên hệ phòng Nhân sự để được hướng dẫn chế độ bảo hiểm dài hạn. Công ty có quyền yêu cầu khám sức khỏe tổng quát trước khi nhân viên quay lại làm việc.",
+    "summary": "Đoạn văn đề cập đến quy định về nghỉ ốm dài hạn tại công ty, cụ thể là khi nhân viên nghỉ ốm trên 30 ngày trong năm. Nhân viên cần liên hệ với phòng Nhân sự để được hướng dẫn về chế độ bảo hiểm và có thể phải khám sức khỏe trước khi trở lại làm việc.",
+    "hypothesis_questions": [
+      "Nhân viên cần làm gì khi nghỉ ốm trên 30 ngày?",
+      "Công ty có quyền yêu cầu gì trước khi nhân viên quay lại làm việc?",
+      "Chế độ bảo hiểm dài hạn được hướng dẫn bởi ai?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_om.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Nghỉ ốm",
+      "entities": [
+        "nhân viên",
+        "phòng Nhân sự",
+        "bảo hiểm",
+        "khám sức khỏe"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "ade4ec588531a8c83b21e756aa5f955844be1b86598741eb69c116e0cab2b46a": {
+    "original_text": "# Chính sách nghỉ phép đặc biệt\n> Phiên bản: 1.1 | Ngày hiệu lực: 01/03/2024 | Phòng ban: Nhân sự",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu và nói về chính sách nghỉ phép đặc biệt trong công ty.\n\n# Chính sách nghỉ phép đặc biệt\n> Phiên bản: 1.1 | Ngày hiệu lực: 01/03/2024 | Phòng ban: Nhân sự",
+    "summary": "Đoạn văn giới thiệu về chính sách nghỉ phép đặc biệt của công ty, bao gồm thông tin về phiên bản và ngày hiệu lực. Chính sách này thuộc phòng ban Nhân sự.",
+    "hypothesis_questions": [
+      "Chính sách nghỉ phép đặc biệt có những điều khoản gì?",
+      "Ai là người áp dụng chính sách này?",
+      "Ngày hiệu lực của chính sách là khi nào?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_dac_biet.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách nghỉ phép",
+      "entities": [
+        "Nghỉ phép",
+        "Nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "9de929c896c537ff093f9926c8f948f01d8772fb7b8a564979b346594ca4fb10": {
+    "original_text": "## Các trường hợp được nghỉ phép đặc biệt Nhân viên được nghỉ có lương trong các trường hợp sau đây mà không trừ vào phép năm: - **Kết hôn**: 3 ngày làm việc - **Tang lễ** (cha mẹ, vợ/chồng, con): 3 ngày làm việc - **Sinh con** (nam giới):",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định nghỉ phép của nhân viên, nói về các trường hợp được nghỉ phép đặc biệt.\n\n## Các trường hợp được nghỉ phép đặc biệt Nhân viên được nghỉ có lương trong các trường hợp sau đây mà không trừ vào phép năm: - **Kết hôn**: 3 ngày làm việc - **Tang lễ** (cha mẹ, vợ/chồng, con): 3 ngày làm việc - **Sinh con** (nam giới):",
+    "summary": "Đoạn văn liệt kê các trường hợp mà nhân viên được nghỉ phép đặc biệt có lương mà không bị trừ vào phép năm, bao gồm kết hôn, tang lễ và sinh con. Mỗi trường hợp có số ngày nghỉ cụ thể được quy định.",
+    "hypothesis_questions": [
+      "Nhân viên được nghỉ bao nhiêu ngày khi kết hôn?",
+      "Ai là người được nghỉ phép trong trường hợp tang lễ?",
+      "Có những trường hợp nào được nghỉ phép đặc biệt?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_dac_biet.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Nghỉ phép đặc biệt",
+      "entities": [
+        "nhân viên",
+        "kết hôn",
+        "tang lễ",
+        "sinh con"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "fa090833d6aee6944a88bfc715c1f079953f2b6a970edca48a4564cf6f9ee758": {
+    "original_text": "5 ngày làm việc liên tục - **Con kết hôn**: 1 ngày làm việc",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định nghỉ phép và nói về quyền lợi của nhân viên khi kết hôn.\n\n5 ngày làm việc liên tục - **Con kết hôn**: 1 ngày làm việc",
+    "summary": "Đoạn văn đề cập đến quy định về số ngày làm việc liên tục và số ngày nghỉ phép đặc biệt khi kết hôn. Cụ thể, nhân viên được nghỉ 1 ngày làm việc khi kết hôn sau 5 ngày làm việc liên tục.",
+    "hypothesis_questions": [
+      "Quy định nghỉ phép đặc biệt khi nào được áp dụng?",
+      "Nhân viên cần làm việc bao nhiêu ngày liên tục để được nghỉ phép khi kết hôn?",
+      "Có bao nhiêu ngày nghỉ phép khi kết hôn?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_dac_biet.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Nghỉ phép đặc biệt",
+      "entities": [
+        "kết hôn",
+        "ngày làm việc"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "f092857aff34e9f21fd0517598f9c8ec081fd680f3d1c001abb1f88b44a74e32": {
+    "original_text": "## Hồ sơ cần thiết\nNhân viên cần cung cấp giấy tờ chứng minh trong vòng 5 ngày làm việc sau khi quay lại: giấy đăng ký kết hôn, giấy khai tử, giấy khai sinh. Trường hợp không cung cấp đầy đủ, số ngày nghỉ sẽ bị trừ vào phép năm.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quy trình nghỉ phép đặc biệt, đề cập đến hồ sơ cần thiết cho nhân viên.\n\n## Hồ sơ cần thiết\nNhân viên cần cung cấp giấy tờ chứng minh trong vòng 5 ngày làm việc sau khi quay lại: giấy đăng ký kết hôn, giấy khai tử, giấy khai sinh. Trường hợp không cung cấp đầy đủ, số ngày nghỉ sẽ bị trừ vào phép năm.",
+    "summary": "Đoạn văn nêu rõ các giấy tờ cần thiết mà nhân viên phải cung cấp trong vòng 5 ngày làm việc sau khi quay lại, bao gồm giấy đăng ký kết hôn, giấy khai tử và giấy khai sinh. Nếu không cung cấp đầy đủ, số ngày nghỉ sẽ bị trừ vào phép năm.",
+    "hypothesis_questions": [
+      "Nhân viên cần cung cấp giấy tờ gì?",
+      "Thời hạn cung cấp giấy tờ là bao lâu?",
+      "Hậu quả nếu không cung cấp đầy đủ giấy tờ là gì?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_dac_biet.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Hồ sơ nghỉ phép",
+      "entities": [
+        "giấy đăng ký kết hôn",
+        "giấy khai tử",
+        "giấy khai sinh"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "4c32f2c01ed8d56c284bd024d5dacd2c913a3024e3d889e800cf563721ead0e1": {
+    "original_text": "## Lưu ý\nPhép đặc biệt không cộng dồn và không chuyển sang năm sau. Ngày nghỉ được tính liên tục bao gồm cả ngày nghỉ cuối tuần nếu rơi vào giữa kỳ nghỉ.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định nghỉ phép, nói về các quy tắc liên quan đến phép đặc biệt.\n\n## Lưu ý\nPhép đặc biệt không cộng dồn và không chuyển sang năm sau. Ngày nghỉ được tính liên tục bao gồm cả ngày nghỉ cuối tuần nếu rơi vào giữa kỳ nghỉ.",
+    "summary": "Đoạn văn nêu rõ rằng phép đặc biệt không thể cộng dồn và không được chuyển sang năm sau. Ngoài ra, ngày nghỉ sẽ được tính liên tục, bao gồm cả ngày nghỉ cuối tuần nếu nằm trong kỳ nghỉ.",
+    "hypothesis_questions": [
+      "Phép đặc biệt có thể cộng dồn không?",
+      "Ngày nghỉ có được tính liên tục không?",
+      "Có thể chuyển phép đặc biệt sang năm sau không?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_dac_biet.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Quy định nghỉ phép",
+      "entities": [
+        "phép đặc biệt",
+        "ngày nghỉ",
+        "ngày nghỉ cuối tuần"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "4a68766194e08eb107197a807cef10ec65c059a37d40e4d290368cc4b6ce6b02": {
+    "original_text": "# Chính sách nghỉ phép không lương\n> Phiên bản: 1.2 | Ngày hiệu lực: 01/07/2023 | Phòng ban: Nhân sự",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu và nói về chính sách nghỉ phép không lương trong tổ chức.\n\n# Chính sách nghỉ phép không lương\n> Phiên bản: 1.2 | Ngày hiệu lực: 01/07/2023 | Phòng ban: Nhân sự",
+    "summary": "Đoạn văn giới thiệu về chính sách nghỉ phép không lương, bao gồm thông tin về phiên bản và ngày hiệu lực của chính sách. Nó cũng chỉ rõ phòng ban liên quan là Nhân sự.",
+    "hypothesis_questions": [
+      "Chính sách nghỉ phép không lương áp dụng cho ai?",
+      "Có những điều kiện gì để được nghỉ phép không lương?",
+      "Thời gian nghỉ phép không lương tối đa là bao lâu?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_khong_luong.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách nghỉ phép",
+      "entities": [
+        "Nghỉ phép không lương",
+        "Nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "a1c8827f1566657469bef58e916828406ce1568bf7360c830b187e0d1e14b2f1": {
+    "original_text": "## Điều kiện áp dụng\nNhân viên chính thức đã hết phép năm có thể xin nghỉ phép không lương. Thời gian nghỉ phép không lương tối đa là **30 ngày** trong một năm dương lịch. Nghỉ phép không lương không được tính thâm niên.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quyền lợi nghỉ phép của nhân viên, cụ thể là quy định về nghỉ phép không lương.\n\n## Điều kiện áp dụng\nNhân viên chính thức đã hết phép năm có thể xin nghỉ phép không lương. Thời gian nghỉ phép không lương tối đa là **30 ngày** trong một năm dương lịch. Nghỉ phép không lương không được tính thâm niên.",
+    "summary": "Đoạn văn nêu rõ điều kiện để nhân viên chính thức có thể xin nghỉ phép không lương, bao gồm thời gian tối đa là 30 ngày trong một năm và việc nghỉ phép không lương không được tính vào thâm niên. Đây là thông tin quan trọng cho nhân viên khi xem xét quyền lợi của mình.",
+    "hypothesis_questions": [
+      "Ai là đối tượng áp dụng nghỉ phép không lương?",
+      "Thời gian tối đa nghỉ phép không lương là bao lâu?",
+      "Nghỉ phép không lương có ảnh hưởng đến thâm niên không?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_khong_luong.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Nghỉ phép không lương",
+      "entities": [
+        "nhân viên chính thức",
+        "nghỉ phép",
+        "thâm niên"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "d0bd2caa303fba16a2ff85313accfc19edc348321c32ca4edee3dd00e7d4e8f5": {
+    "original_text": "## Quy trình phê duyệt Đơn xin nghỉ phép không lương phải được nộp trước ít nhất 7 ngày làm việc. Nghỉ từ 1-5 ngày: trưởng phòng phê duyệt. Nghỉ từ 6-15 ngày: cần thêm phê duyệt của Giám đốc Nhân sự. Nghỉ từ 16-30 ngày:",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quy trình nghỉ phép không lương, nói về các bước và yêu cầu phê duyệt.\n\n## Quy trình phê duyệt Đơn xin nghỉ phép không lương phải được nộp trước ít nhất 7 ngày làm việc. Nghỉ từ 1-5 ngày: trưởng phòng phê duyệt. Nghỉ từ 6-15 ngày: cần thêm phê duyệt của Giám đốc Nhân sự. Nghỉ từ 16-30 ngày:",
+    "summary": "Đoạn văn mô tả quy trình phê duyệt đơn xin nghỉ phép không lương tại công ty. Quy trình này yêu cầu đơn phải được nộp trước ít nhất 7 ngày làm việc và có sự phê duyệt của trưởng phòng hoặc Giám đốc Nhân sự tùy thuộc vào số ngày nghỉ.",
+    "hypothesis_questions": [
+      "Quy trình phê duyệt đơn xin nghỉ phép không lương là gì?",
+      "Ai là người phê duyệt đơn xin nghỉ phép không lương?",
+      "Thời gian nộp đơn xin nghỉ phép không lương là bao lâu trước khi nghỉ?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_khong_luong.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Quy trình nghỉ phép không lương",
+      "entities": [
+        "trưởng phòng",
+        "Giám đốc Nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "d6ba9af31eb3259acb3d11a33f241a4cc8d11987f3b2e636e8803b13c177c0a1": {
+    "original_text": "cần phê duyệt của **Giám đốc điều hành (CEO)**.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy trình phê duyệt trong tổ chức, liên quan đến vai trò của Giám đốc điều hành.\n\ncần phê duyệt của **Giám đốc điều hành (CEO)**.",
+    "summary": "Đoạn văn nhấn mạnh rằng một quyết định nào đó cần phải được phê duyệt bởi Giám đốc điều hành. Điều này cho thấy tầm quan trọng của sự chấp thuận từ cấp cao trong tổ chức.",
+    "hypothesis_questions": [
+      "Ai là người cần phê duyệt?",
+      "Tại sao cần sự phê duyệt của Giám đốc điều hành?",
+      "Quy trình phê duyệt này có ảnh hưởng gì đến tổ chức?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_khong_luong.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quy trình phê duyệt",
+      "entities": [
+        "Giám đốc điều hành"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "22b0eefd10a607b2e0e103832ca74865176201fedf21ece02b948e950f155b13": {
+    "original_text": "## Ảnh hưởng đến phúc lợi\nTrong thời gian nghỉ không lương, nhân viên không được hưởng lương và các khoản phụ cấp. Bảo hiểm y tế vẫn được duy trì nếu nghỉ dưới 14 ngày. Nghỉ trên 14 ngày, nhân viên cần tự đóng phần bảo hiểm của mình.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về chính sách nghỉ phép không lương, nói về ảnh hưởng đến phúc lợi của nhân viên.\n\n## Ảnh hưởng đến phúc lợi\nTrong thời gian nghỉ không lương, nhân viên không được hưởng lương và các khoản phụ cấp. Bảo hiểm y tế vẫn được duy trì nếu nghỉ dưới 14 ngày. Nghỉ trên 14 ngày, nhân viên cần tự đóng phần bảo hiểm của mình.",
+    "summary": "Đoạn văn mô tả ảnh hưởng của việc nghỉ không lương đến phúc lợi của nhân viên, bao gồm việc không nhận lương và phụ cấp. Nó cũng đề cập đến quy định về bảo hiểm y tế trong thời gian nghỉ này.",
+    "hypothesis_questions": [
+      "Nhân viên có được hưởng lương trong thời gian nghỉ không lương không?",
+      "Bảo hiểm y tế được duy trì trong bao lâu khi nghỉ không lương?",
+      "Nhân viên cần làm gì nếu nghỉ không lương trên 14 ngày?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_khong_luong.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Nghỉ phép không lương",
+      "entities": [
+        "nhân viên",
+        "lương",
+        "phụ cấp",
+        "bảo hiểm y tế"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "8946ce5e8d26f5e62094ea5b2605fda7f1408e7b03fc9d8a408d2f948f714db2": {
+    "original_text": "# Chính sách nghỉ phép năm (Phiên bản 2023)\n> Phiên bản: 1.0 | Ngày hiệu lực: 01/01/2023 | Phòng ban: Nhân sự",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu, nói về chính sách nghỉ phép năm 2023.\n\n# Chính sách nghỉ phép năm (Phiên bản 2023)\n> Phiên bản: 1.0 | Ngày hiệu lực: 01/01/2023 | Phòng ban: Nhân sự",
+    "summary": "Đoạn văn giới thiệu về chính sách nghỉ phép năm 2023, bao gồm thông tin về phiên bản và ngày hiệu lực. Chính sách này thuộc phòng ban Nhân sự.",
+    "hypothesis_questions": [
+      "Chính sách nghỉ phép năm 2023 có những điểm gì mới?",
+      "Ai là người phụ trách chính sách này?",
+      "Ngày hiệu lực của chính sách là khi nào?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_nam_v2023.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách nghỉ phép",
+      "entities": [
+        "Nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "1cf1c98fc0c821ad8728679764d5b3418bf1274df834d7f9c6ba7b9bf3671994": {
+    "original_text": "## Số ngày phép năm\nMỗi nhân viên chính thức được hưởng **12 ngày phép năm** có lương. Số ngày phép được tính theo năm dương lịch từ 01/01 đến 31/12. Nhân viên vào công ty giữa năm sẽ được tính pro-rata theo số tháng làm việc thực tế.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định nghỉ phép của công ty, nói về số ngày phép năm mà nhân viên được hưởng.\n\n## Số ngày phép năm\nMỗi nhân viên chính thức được hưởng **12 ngày phép năm** có lương. Số ngày phép được tính theo năm dương lịch từ 01/01 đến 31/12. Nhân viên vào công ty giữa năm sẽ được tính pro-rata theo số tháng làm việc thực tế.",
+    "summary": "Mỗi nhân viên chính thức được hưởng 12 ngày phép năm có lương, tính theo năm dương lịch. Nhân viên vào công ty giữa năm sẽ được tính pro-rata theo số tháng làm việc thực tế.",
+    "hypothesis_questions": [
+      "Nhân viên chính thức được hưởng bao nhiêu ngày phép năm?",
+      "Số ngày phép được tính theo thời gian nào?",
+      "Nhân viên vào công ty giữa năm sẽ được tính phép như thế nào?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_nam_v2023.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Nghỉ phép",
+      "entities": [
+        "nhân viên",
+        "ngày phép",
+        "công ty"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "c11eaaccecb6bc7f093cdfe795d398cce99cbf8c4712e132d3fe38f53ba3d915": {
+    "original_text": "## Thâm niên công tác\nNhân viên có thâm niên từ **5 năm trở lên** được cộng thêm **1 ngày phép** cho mỗi 5 năm làm việc liên tục. Ví dụ: nhân viên 10 năm thâm niên được 14 ngày phép.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định nghỉ phép, nói về chính sách cộng thêm ngày phép cho nhân viên theo thâm niên công tác.\n\n## Thâm niên công tác\nNhân viên có thâm niên từ **5 năm trở lên** được cộng thêm **1 ngày phép** cho mỗi 5 năm làm việc liên tục. Ví dụ: nhân viên 10 năm thâm niên được 14 ngày phép.",
+    "summary": "Đoạn văn quy định về việc cộng thêm ngày phép cho nhân viên có thâm niên từ 5 năm trở lên. Cụ thể, mỗi 5 năm làm việc liên tục, nhân viên sẽ được cộng thêm 1 ngày phép.",
+    "hypothesis_questions": [
+      "Nhân viên có thâm niên bao lâu thì được cộng thêm ngày phép?",
+      "Mỗi 5 năm làm việc liên tục, nhân viên được cộng bao nhiêu ngày phép?",
+      "Ví dụ về số ngày phép của nhân viên 10 năm thâm niên là bao nhiêu?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_nam_v2023.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Chính sách nghỉ phép",
+      "entities": [
+        "nhân viên",
+        "thâm niên",
+        "ngày phép"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "8f5d51eb09d8e972b110af13b3765c233f94a5f56f0d23c2103b2b4aace838ad": {
+    "original_text": "## Quy định sử dụng Phép năm phải được đăng ký trước ít nhất 3 ngày làm việc qua hệ thống HR Portal. Nghỉ phép từ 3 ngày trở lên cần được trưởng phòng phê duyệt.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quy định nghỉ phép trong công ty, nói về quy trình và yêu cầu khi sử dụng phép năm.\n\n## Quy định sử dụng Phép năm phải được đăng ký trước ít nhất 3 ngày làm việc qua hệ thống HR Portal. Nghỉ phép từ 3 ngày trở lên cần được trưởng phòng phê duyệt.",
+    "summary": "Đoạn văn quy định về việc sử dụng phép năm, yêu cầu phải đăng ký trước ít nhất 3 ngày làm việc qua hệ thống HR Portal. Ngoài ra, nghỉ phép từ 3 ngày trở lên cần có sự phê duyệt của trưởng phòng.",
+    "hypothesis_questions": [
+      "Quy trình đăng ký phép năm như thế nào?",
+      "Ai là người phê duyệt nghỉ phép từ 3 ngày trở lên?",
+      "Thời gian đăng ký phép năm tối thiểu là bao lâu?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_nam_v2023.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quy định nghỉ phép",
+      "entities": [
+        "HR Portal",
+        "trưởng phòng",
+        "nghỉ phép"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "2f14b9c3e93085fc4e016d31a1f52bd7a7dff98bbd04dcbf258db7a6076a2e25": {
+    "original_text": "Phép năm không sử dụng hết có thể chuyển tối đa 5 ngày sang năm sau, hết hạn vào 31/03 năm kế tiếp.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định nghỉ phép, nói về việc chuyển phép năm không sử dụng sang năm tiếp theo.\n\nPhép năm không sử dụng hết có thể chuyển tối đa 5 ngày sang năm sau, hết hạn vào 31/03 năm kế tiếp.",
+    "summary": "Đoạn văn đề cập đến quy định về việc chuyển phép năm không sử dụng hết sang năm sau. Cụ thể, người lao động có thể chuyển tối đa 5 ngày phép và thời hạn sử dụng là đến 31/03 của năm kế tiếp.",
+    "hypothesis_questions": [
+      "Quy định về việc chuyển phép năm là gì?",
+      "Thời hạn sử dụng phép năm chuyển sang năm sau là khi nào?",
+      "Số ngày phép tối đa có thể chuyển là bao nhiêu?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_nam_v2023.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Nghỉ phép năm",
+      "entities": [
+        "phép năm",
+        "ngày nghỉ",
+        "quy định"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "ba024d4bbb2a6da775fa074088c8faa3ac6b59ad006f5e0e87ca2964305201dc": {
+    "original_text": "# Chính sách nghỉ phép năm (Phiên bản 2024)\n> Phiên bản: 2.0 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Nhân sự",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu và nói về chính sách nghỉ phép năm 2024.\n\n# Chính sách nghỉ phép năm (Phiên bản 2024)\n> Phiên bản: 2.0 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Nhân sự",
+    "summary": "Đoạn văn giới thiệu về chính sách nghỉ phép năm 2024, bao gồm thông tin về phiên bản và ngày hiệu lực. Nó thuộc về phòng ban nhân sự.",
+    "hypothesis_questions": [
+      "Chính sách nghỉ phép năm 2024 có những điểm gì mới?",
+      "Ngày hiệu lực của chính sách này là khi nào?",
+      "Phòng ban nào phụ trách chính sách nghỉ phép năm?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_nam_v2024.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách nghỉ phép",
+      "entities": [
+        "Nghỉ phép",
+        "Nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "f0c29a28798caac29915435efe88806a3fbc6c92b3e2d0282d592175788bd602": {
+    "original_text": "## Số ngày phép năm\nMỗi nhân viên chính thức được hưởng **15 ngày phép năm** có lương, tăng từ 12 ngày so với chính sách năm 2023. Chính sách này thay thế hoàn toàn phiên bản 1.0 ban hành ngày 01/01/2023.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về chính sách nghỉ phép năm 2024, nói về số ngày phép mà nhân viên được hưởng.\n\n## Số ngày phép năm\nMỗi nhân viên chính thức được hưởng **15 ngày phép năm** có lương, tăng từ 12 ngày so với chính sách năm 2023. Chính sách này thay thế hoàn toàn phiên bản 1.0 ban hành ngày 01/01/2023.",
+    "summary": "Mỗi nhân viên chính thức sẽ được hưởng 15 ngày phép năm có lương, tăng từ 12 ngày so với chính sách năm 2023. Chính sách này thay thế hoàn toàn phiên bản 1.0 ban hành ngày 01/01/2023.",
+    "hypothesis_questions": [
+      "Số ngày phép năm 2024 là bao nhiêu?",
+      "Chính sách này có gì khác so với năm 2023?",
+      "Khi nào chính sách này được ban hành?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_nam_v2024.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Nghỉ phép năm",
+      "entities": [
+        "nhân viên",
+        "ngày phép",
+        "chính sách"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "a202ddc372595762bf89729075f26c50bd8fab2f7ba6e13dee9ccfa353653219": {
+    "original_text": "## Thâm niên công tác\nNhân viên có thâm niên từ **3 năm trở lên** được cộng thêm **1 ngày phép** cho mỗi 3 năm làm việc liên tục. Ví dụ: nhân viên 9 năm thâm niên được 18 ngày phép (15 + 3).",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định nghỉ phép, nói về chính sách cộng thêm ngày phép cho nhân viên dựa trên thâm niên công tác.\n\n## Thâm niên công tác\nNhân viên có thâm niên từ **3 năm trở lên** được cộng thêm **1 ngày phép** cho mỗi 3 năm làm việc liên tục. Ví dụ: nhân viên 9 năm thâm niên được 18 ngày phép (15 + 3).",
+    "summary": "Đoạn văn quy định về việc cộng thêm ngày phép cho nhân viên có thâm niên từ 3 năm trở lên. Cụ thể, mỗi 3 năm làm việc liên tục, nhân viên sẽ được cộng thêm 1 ngày phép.",
+    "hypothesis_questions": [
+      "Nhân viên có thâm niên bao lâu thì được cộng thêm ngày phép?",
+      "Cách tính số ngày phép cho nhân viên thâm niên như thế nào?",
+      "Ví dụ cụ thể về số ngày phép của nhân viên 9 năm thâm niên?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_nam_v2024.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Chính sách nghỉ phép",
+      "entities": [
+        "nhân viên",
+        "thâm niên",
+        "ngày phép"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "0690e65ba66451080018a19a68ea99fc9864030760d4861fb4fd28e9930cca4e": {
+    "original_text": "## Quy định sử dụng Phép năm phải được đăng ký trước ít nhất 2 ngày làm việc qua hệ thống HR Portal. Nghỉ phép từ 5 ngày trở lên cần được trưởng phòng phê duyệt.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quy định nghỉ phép năm 2024, nói về quy trình và yêu cầu khi đăng ký nghỉ phép.\n\n## Quy định sử dụng Phép năm phải được đăng ký trước ít nhất 2 ngày làm việc qua hệ thống HR Portal. Nghỉ phép từ 5 ngày trở lên cần được trưởng phòng phê duyệt.",
+    "summary": "Đoạn văn quy định về việc đăng ký nghỉ phép trong năm 2024. Người lao động phải đăng ký nghỉ phép trước ít nhất 2 ngày làm việc và nghỉ phép từ 5 ngày trở lên cần có sự phê duyệt của trưởng phòng.",
+    "hypothesis_questions": [
+      "Thời gian tối thiểu để đăng ký nghỉ phép là bao lâu?",
+      "Ai là người phê duyệt nghỉ phép từ 5 ngày trở lên?",
+      "Nghỉ phép có cần phải đăng ký không?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_nam_v2024.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quy định nghỉ phép",
+      "entities": [
+        "HR Portal",
+        "trưởng phòng"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "336eb9c6f31d5e90edeb3020f4eb3d7ec86b2695df15fb066204fde93a8ca360": {
+    "original_text": "Phép năm không sử dụng hết có thể chuyển tối đa 5 ngày sang năm sau, hết hạn vào 31/03 năm kế tiếp. Nhân viên cũng có thể yêu cầu thanh toán bằng tiền cho số ngày phép còn lại.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định nghỉ phép của công ty, nói về cách thức quản lý ngày phép năm.\n\nPhép năm không sử dụng hết có thể chuyển tối đa 5 ngày sang năm sau, hết hạn vào 31/03 năm kế tiếp. Nhân viên cũng có thể yêu cầu thanh toán bằng tiền cho số ngày phép còn lại.",
+    "summary": "Đoạn văn đề cập đến quy định về việc sử dụng phép năm trong năm 2024, cho phép nhân viên chuyển tối đa 5 ngày phép chưa sử dụng sang năm sau và có thể yêu cầu thanh toán cho số ngày phép còn lại. Thời hạn chuyển phép là đến 31/03 năm kế tiếp.",
+    "hypothesis_questions": [
+      "Nhân viên có thể chuyển bao nhiêu ngày phép sang năm sau?",
+      "Thời hạn để chuyển phép năm là khi nào?",
+      "Nhân viên có thể yêu cầu gì đối với số ngày phép chưa sử dụng?"
+    ],
+    "auto_metadata": {
+      "source": "nghi_phep_nam_v2024.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Quy định nghỉ phép",
+      "entities": [
+        "nhân viên",
+        "ngày phép",
+        "thanh toán"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "2b362e0d4562276fa927971dbcd43e05f7e1c11e860b8ba67a955bfd2aa3641d": {
+    "original_text": "# Chính sách phân loại dữ liệu\n> Phiên bản: 1.0 | Ngày hiệu lực: 01/06/2024 | Phòng ban: CNTT & An ninh thông tin",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu phan_loai_du_lieu.md và nói về chính sách phân loại dữ liệu trong tổ chức.\n\n# Chính sách phân loại dữ liệu\n> Phiên bản: 1.0 | Ngày hiệu lực: 01/06/2024 | Phòng ban: CNTT & An ninh thông tin",
+    "summary": "Đoạn văn giới thiệu về chính sách phân loại dữ liệu, bao gồm thông tin về phiên bản, ngày hiệu lực và phòng ban liên quan. Đây là một phần quan trọng trong việc quản lý và bảo vệ thông tin trong tổ chức.",
+    "hypothesis_questions": [
+      "Chính sách phân loại dữ liệu có những nội dung gì?",
+      "Ai là phòng ban phụ trách chính sách này?",
+      "Ngày hiệu lực của chính sách là khi nào?"
+    ],
+    "auto_metadata": {
+      "source": "phan_loai_du_lieu.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách phân loại dữ liệu",
+      "entities": [
+        "CNTT",
+        "An ninh thông tin"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "641d5c3c825cdc0746534bcbc1117c99fd1663a5b734c89ab7f5c7b4778a5360": {
+    "original_text": "## Bốn cấp độ phân loại | Cấp độ | Nhãn | Ví dụ | |--------|------|-------| | 1 | **Công khai** | Thông tin marketing, bài blog, tuyển dụng | | 2 | **Nội bộ** | Quy trình nội bộ, biên bản họp, danh bạ nhân viên |",
+    "enriched_text": "Đoạn văn nằm trong tài liệu phan_loai_du_lieu.md và nói về các cấp độ phân loại dữ liệu.\n\n## Bốn cấp độ phân loại | Cấp độ | Nhãn | Ví dụ | |--------|------|-------| | 1 | **Công khai** | Thông tin marketing, bài blog, tuyển dụng | | 2 | **Nội bộ** | Quy trình nội bộ, biên bản họp, danh bạ nhân viên |",
+    "summary": "Đoạn văn trình bày bốn cấp độ phân loại dữ liệu, trong đó có hai cấp độ được mô tả là 'Công khai' và 'Nội bộ'. Mỗi cấp độ đi kèm với các nhãn và ví dụ cụ thể để minh họa cho loại thông tin thuộc về cấp độ đó.",
+    "hypothesis_questions": [
+      "Có bao nhiêu cấp độ phân loại dữ liệu được đề cập?",
+      "Cấp độ 'Công khai' bao gồm những loại thông tin nào?",
+      "Cấp độ 'Nội bộ' có ví dụ gì?"
+    ],
+    "auto_metadata": {
+      "source": "phan_loai_du_lieu.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Phân loại dữ liệu",
+      "entities": [
+        "Công khai",
+        "Nội bộ",
+        "Thông tin marketing",
+        "Quy trình nội bộ"
+      ],
+      "category": "general",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "72f5d8568e178df14aa34028f0280ad278ca9ceb00af0d7acfa465c9d00229bd": {
+    "original_text": "| 3 | **Bí mật** | Dữ liệu khách hàng, hợp đồng, chiến lược kinh doanh | | 4 | **Tối mật** | Mã nguồn core, bí mật thương mại, kế hoạch M&A |",
+    "enriched_text": "Đoạn văn nằm trong tài liệu phan_loai_du_lieu.md và nói về phân loại dữ liệu theo mức độ bảo mật.\n\n| 3 | **Bí mật** | Dữ liệu khách hàng, hợp đồng, chiến lược kinh doanh | | 4 | **Tối mật** | Mã nguồn core, bí mật thương mại, kế hoạch M&A |",
+    "summary": "Đoạn văn liệt kê các loại dữ liệu theo mức độ bảo mật, bao gồm 'Bí mật' và 'Tối mật'. Mỗi loại dữ liệu đi kèm với các ví dụ cụ thể như dữ liệu khách hàng và mã nguồn core.",
+    "hypothesis_questions": [
+      "Các loại dữ liệu nào được đề cập trong đoạn văn?",
+      "Ví dụ nào được đưa ra cho loại dữ liệu 'Bí mật'?",
+      "Mức độ bảo mật nào được mô tả cao nhất trong đoạn văn?"
+    ],
+    "auto_metadata": {
+      "source": "phan_loai_du_lieu.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Phân loại dữ liệu",
+      "entities": [
+        "dữ liệu khách hàng",
+        "hợp đồng",
+        "chiến lược kinh doanh",
+        "mã nguồn core",
+        "bí mật thương mại",
+        "kế hoạch M&A"
+      ],
+      "category": "general",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "170d5b846d23e29a030fe66d7fe1c05de60676415e542b7f31663f3d8d020ba6": {
+    "original_text": "## Quy tắc xử lý - **Công khai**: chia sẻ tự do, không hạn chế - **Nội bộ**: chỉ chia sẻ nội bộ, không ra ngoài công ty - **Bí mật**: mã hóa khi truyền, hạn chế quyền truy cập theo need-to-know - **Tối mật**:",
+    "enriched_text": "Đoạn văn nằm trong tài liệu phan_loai_du_lieu.md và nói về các quy tắc xử lý dữ liệu trong tổ chức.\n\n## Quy tắc xử lý - **Công khai**: chia sẻ tự do, không hạn chế - **Nội bộ**: chỉ chia sẻ nội bộ, không ra ngoài công ty - **Bí mật**: mã hóa khi truyền, hạn chế quyền truy cập theo need-to-know - **Tối mật**:",
+    "summary": "Đoạn văn trình bày các quy tắc xử lý dữ liệu theo các mức độ khác nhau, bao gồm công khai, nội bộ, bí mật và tối mật. Mỗi mức độ có những yêu cầu riêng về việc chia sẻ và bảo mật thông tin.",
+    "hypothesis_questions": [
+      "Các mức độ xử lý dữ liệu được phân loại như thế nào?",
+      "Quy tắc nào áp dụng cho dữ liệu bí mật?",
+      "Tại sao cần mã hóa dữ liệu tối mật?"
+    ],
+    "auto_metadata": {
+      "source": "phan_loai_du_lieu.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quy tắc xử lý dữ liệu",
+      "entities": [
+        "Công khai",
+        "Nội bộ",
+        "Bí mật",
+        "Tối mật"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "e6bab388df656e50e9a2534f8723bb8cf4f21eefc3d146d98d3f52d5e99178aa": {
+    "original_text": "mã hóa end-to-end, truy cập cần phê duyệt Giám đốc CNTT, log tất cả truy cập",
+    "enriched_text": "Đoạn văn nằm trong tài liệu phan_loai_du_lieu.md và nói về các biện pháp bảo mật dữ liệu.\n\nmã hóa end-to-end, truy cập cần phê duyệt Giám đốc CNTT, log tất cả truy cập",
+    "summary": "Đoạn văn đề cập đến các biện pháp bảo mật trong quản lý dữ liệu, bao gồm mã hóa end-to-end và yêu cầu phê duyệt từ Giám đốc CNTT cho việc truy cập. Ngoài ra, tất cả các truy cập đều được ghi lại để đảm bảo tính minh bạch và an toàn.",
+    "hypothesis_questions": [
+      "Mã hóa end-to-end là gì?",
+      "Ai có quyền phê duyệt truy cập?",
+      "Tại sao cần log tất cả truy cập?"
+    ],
+    "auto_metadata": {
+      "source": "phan_loai_du_lieu.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Bảo mật dữ liệu",
+      "entities": [
+        "Giám đốc CNTT"
+      ],
+      "category": "it",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "8eba81ff1994a2fc170a2253303908feac075046586cca8ee83e81aeaf2d9f98": {
+    "original_text": "## Vi phạm\nVi phạm chính sách phân loại dữ liệu sẽ bị xử lý kỷ luật theo Quy chế kỷ luật công ty, mức cao nhất là sa thải và chịu trách nhiệm pháp lý.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu phan_loai_du_lieu.md và nói về các hình thức xử lý vi phạm chính sách phân loại dữ liệu.\n\n## Vi phạm\nVi phạm chính sách phân loại dữ liệu sẽ bị xử lý kỷ luật theo Quy chế kỷ luật công ty, mức cao nhất là sa thải và chịu trách nhiệm pháp lý.",
+    "summary": "Đoạn văn đề cập đến việc vi phạm chính sách phân loại dữ liệu và các hình thức xử lý kỷ luật liên quan. Hình thức xử lý nghiêm khắc nhất có thể là sa thải và chịu trách nhiệm pháp lý.",
+    "hypothesis_questions": [
+      "Vi phạm chính sách phân loại dữ liệu sẽ bị xử lý như thế nào?",
+      "Hình thức xử lý kỷ luật nào là nghiêm khắc nhất?",
+      "Có những hậu quả pháp lý nào khi vi phạm chính sách này?"
+    ],
+    "auto_metadata": {
+      "source": "phan_loai_du_lieu.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 5,
+      "chunk_index": 5,
+      "topic": "Vi phạm chính sách phân loại dữ liệu",
+      "entities": [
+        "Quy chế kỷ luật công ty",
+        "sa thải",
+        "trách nhiệm pháp lý"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "28a47dae72a86e5a39fa2d0d141b1fd45049aae8a911f9e59af14fb261d5c49d": {
+    "original_text": "# Chính sách phụ cấp\n> Phiên bản: 2.1 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Nhân sự",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu phu_cap.md và nói về chính sách phụ cấp của công ty.\n\n# Chính sách phụ cấp\n> Phiên bản: 2.1 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Nhân sự",
+    "summary": "Đoạn văn giới thiệu về chính sách phụ cấp của công ty, bao gồm thông tin về phiên bản và ngày hiệu lực. Nó thuộc phòng ban nhân sự.",
+    "hypothesis_questions": [
+      "Chính sách phụ cấp này có những nội dung gì?",
+      "Ngày hiệu lực của chính sách là khi nào?",
+      "Phòng ban nào phụ trách chính sách này?"
+    ],
+    "auto_metadata": {
+      "source": "phu_cap.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách phụ cấp",
+      "entities": [
+        "phụ cấp",
+        "nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "0f47b1c289fd1a011425f5aacd5c4ab4a21af898c7b788288fdfda221d046ed8": {
+    "original_text": "## Phụ cấp ăn trưa\nTất cả nhân viên được hưởng phụ cấp ăn trưa **1.000.000 VNĐ/tháng**, chi trả cùng kỳ lương. Phụ cấp này không áp dụng cho những ngày nghỉ phép, nghỉ ốm hoặc công tác ngoài.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu phu_cap.md và nói về chính sách phụ cấp ăn trưa cho nhân viên.\n\n## Phụ cấp ăn trưa\nTất cả nhân viên được hưởng phụ cấp ăn trưa **1.000.000 VNĐ/tháng**, chi trả cùng kỳ lương. Phụ cấp này không áp dụng cho những ngày nghỉ phép, nghỉ ốm hoặc công tác ngoài.",
+    "summary": "Đoạn văn đề cập đến chính sách phụ cấp ăn trưa cho nhân viên, với mức 1.000.000 VNĐ/tháng. Phụ cấp này không được áp dụng trong các trường hợp nghỉ phép, nghỉ ốm hoặc công tác ngoài.",
+    "hypothesis_questions": [
+      "Mức phụ cấp ăn trưa là bao nhiêu?",
+      "Phụ cấp ăn trưa có áp dụng cho ngày nghỉ phép không?",
+      "Phụ cấp này được chi trả cùng với khoản nào?"
+    ],
+    "auto_metadata": {
+      "source": "phu_cap.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Phụ cấp nhân viên",
+      "entities": [
+        "phụ cấp ăn trưa",
+        "nhân viên",
+        "lương"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "dacc928870e9a1a4f2261d7abbaaf090d034fb4437cd172e8c96ba9a5895af28": {
+    "original_text": "## Phụ cấp đi lại\nNhân viên có tần suất công tác ngoài văn phòng trên 8 ngày/tháng được hưởng phụ cấp đi lại theo thực tế, tối đa **2.000.000 VNĐ/tháng**. Phải có chứng từ hợp lệ (vé xe, hóa đơn xăng, Grab receipt).",
+    "enriched_text": "Đoạn văn nằm trong tài liệu phu_cap.md và nói về quy định phụ cấp đi lại cho nhân viên.\n\n## Phụ cấp đi lại\nNhân viên có tần suất công tác ngoài văn phòng trên 8 ngày/tháng được hưởng phụ cấp đi lại theo thực tế, tối đa **2.000.000 VNĐ/tháng**. Phải có chứng từ hợp lệ (vé xe, hóa đơn xăng, Grab receipt).",
+    "summary": "Đoạn văn quy định về phụ cấp đi lại cho nhân viên có tần suất công tác ngoài văn phòng trên 8 ngày mỗi tháng. Mức phụ cấp tối đa là 2.000.000 VNĐ/tháng và yêu cầu có chứng từ hợp lệ để được hưởng phụ cấp.",
+    "hypothesis_questions": [
+      "Nhân viên nào được hưởng phụ cấp đi lại?",
+      "Mức phụ cấp tối đa là bao nhiêu?",
+      "Cần có chứng từ gì để nhận phụ cấp đi lại?"
+    ],
+    "auto_metadata": {
+      "source": "phu_cap.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Phụ cấp đi lại",
+      "entities": [
+        "nhân viên",
+        "phụ cấp",
+        "chứng từ"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "5f5a06e7e026bc7d86f2a3162119b56c1ea74b9c1c354dcf1cf8c09051e9b4b6": {
+    "original_text": "## Phụ cấp điện thoại\nNhân viên cấp Manager trở lên được hưởng phụ cấp điện thoại **500.000 VNĐ/tháng**. Nhân viên cấp Lead được hưởng 300.000 VNĐ/tháng. Các cấp bậc khác không có phụ cấp điện thoại.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu phu_cap.md và nói về chính sách phụ cấp điện thoại cho nhân viên.\n\n## Phụ cấp điện thoại\nNhân viên cấp Manager trở lên được hưởng phụ cấp điện thoại **500.000 VNĐ/tháng**. Nhân viên cấp Lead được hưởng 300.000 VNĐ/tháng. Các cấp bậc khác không có phụ cấp điện thoại.",
+    "summary": "Đoạn văn mô tả chính sách phụ cấp điện thoại cho nhân viên trong công ty. Nhân viên cấp Manager trở lên nhận 500.000 VNĐ/tháng, trong khi nhân viên cấp Lead nhận 300.000 VNĐ/tháng, và các cấp bậc khác không được hưởng phụ cấp này.",
+    "hypothesis_questions": [
+      "Ai là đối tượng được hưởng phụ cấp điện thoại?",
+      "Mức phụ cấp điện thoại cho nhân viên cấp Lead là bao nhiêu?",
+      "Các cấp bậc nào không được hưởng phụ cấp điện thoại?"
+    ],
+    "auto_metadata": {
+      "source": "phu_cap.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Phụ cấp điện thoại",
+      "entities": [
+        "Nhân viên",
+        "Manager",
+        "Lead"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "fc592dcac07d5e2b40c01b42dc06683fff78078cab478fb73ef9c5f4b720be49": {
+    "original_text": "## Phụ cấp khác\nNhân viên làm việc ca đêm (sau 22h) được phụ cấp 30% lương giờ. Nhân viên làm thêm giờ cuối tuần được tính 200% lương giờ theo quy định pháp luật.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu phu_cap.md và nói về các quy định phụ cấp cho nhân viên.\n\n## Phụ cấp khác\nNhân viên làm việc ca đêm (sau 22h) được phụ cấp 30% lương giờ. Nhân viên làm thêm giờ cuối tuần được tính 200% lương giờ theo quy định pháp luật.",
+    "summary": "Đoạn văn đề cập đến các loại phụ cấp cho nhân viên làm việc ca đêm và làm thêm giờ cuối tuần. Cụ thể, nhân viên làm ca đêm sẽ nhận 30% lương giờ, trong khi nhân viên làm thêm giờ cuối tuần sẽ được tính 200% lương giờ.",
+    "hypothesis_questions": [
+      "Nhân viên làm việc ca đêm được phụ cấp bao nhiêu phần trăm lương giờ?",
+      "Làm thêm giờ cuối tuần được tính lương như thế nào?",
+      "Có quy định pháp luật nào liên quan đến phụ cấp làm thêm giờ không?"
+    ],
+    "auto_metadata": {
+      "source": "phu_cap.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Phụ cấp nhân viên",
+      "entities": [
+        "nhân viên",
+        "phụ cấp",
+        "lương giờ",
+        "ca đêm",
+        "làm thêm giờ"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "10a64c8e3bbe5191570256665b2a4612b91b75f396492a4799d3d2c833beb346": {
+    "original_text": "# Chính sách tạm ứng\n> Phiên bản: 1.0 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Tài chính",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu và nói về chính sách tạm ứng trong tổ chức.\n\n# Chính sách tạm ứng\n> Phiên bản: 1.0 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Tài chính",
+    "summary": "Đoạn văn giới thiệu về chính sách tạm ứng, bao gồm thông tin về phiên bản và ngày hiệu lực. Chính sách này thuộc phòng ban tài chính.",
+    "hypothesis_questions": [
+      "Chính sách tạm ứng có những nội dung gì?",
+      "Ngày hiệu lực của chính sách này là khi nào?",
+      "Phòng ban nào phụ trách chính sách tạm ứng?"
+    ],
+    "auto_metadata": {
+      "source": "tam_ung.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách tạm ứng",
+      "entities": [
+        "tạm ứng",
+        "phòng ban tài chính"
+      ],
+      "category": "finance",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "4099e20c2f7ab274e45ad5a418fa745444449d6b1a8d55c37587981508ece1cb": {
+    "original_text": "## Hạn mức tạm ứng\nNhân viên có thể tạm ứng tối đa **20.000.000 VNĐ** cho mỗi lần đề xuất. Tạm ứng phải ghi rõ mục đích: công tác, mua sắm, tổ chức sự kiện hoặc chi phí dự án.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về chính sách tạm ứng cho nhân viên.\n\n## Hạn mức tạm ứng\nNhân viên có thể tạm ứng tối đa **20.000.000 VNĐ** cho mỗi lần đề xuất. Tạm ứng phải ghi rõ mục đích: công tác, mua sắm, tổ chức sự kiện hoặc chi phí dự án.",
+    "summary": "Đoạn văn quy định về hạn mức tạm ứng cho nhân viên, cho phép tạm ứng tối đa 20.000.000 VNĐ cho mỗi lần. Mục đích tạm ứng cần được ghi rõ, bao gồm công tác, mua sắm, tổ chức sự kiện hoặc chi phí dự án.",
+    "hypothesis_questions": [
+      "Hạn mức tạm ứng tối đa là bao nhiêu?",
+      "Nhân viên cần ghi rõ mục đích gì khi tạm ứng?",
+      "Có những mục đích nào được chấp nhận cho tạm ứng?"
+    ],
+    "auto_metadata": {
+      "source": "tam_ung.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Hạn mức tạm ứng cho nhân viên",
+      "entities": [
+        "nhân viên",
+        "tạm ứng",
+        "mục đích",
+        "công tác",
+        "mua sắm",
+        "tổ chức sự kiện",
+        "chi phí dự án"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "7003db8b8b3d58e1f29343ddcf7bfc7da1484b3fe3731d721daf9838adc1d37f": {
+    "original_text": "## Thời hạn thanh toán\nKhoản tạm ứng phải được thanh toán (nộp chứng từ hoàn ứng) trong vòng **15 ngày** kể từ ngày nhận tiền. Trường hợp công tác dài ngày, thời hạn tính từ ngày kết thúc chuyến công tác.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quy định thanh toán tạm ứng, đề cập đến thời hạn thanh toán.\n\n## Thời hạn thanh toán\nKhoản tạm ứng phải được thanh toán (nộp chứng từ hoàn ứng) trong vòng **15 ngày** kể từ ngày nhận tiền. Trường hợp công tác dài ngày, thời hạn tính từ ngày kết thúc chuyến công tác.",
+    "summary": "Đoạn văn quy định thời hạn thanh toán khoản tạm ứng là 15 ngày kể từ ngày nhận tiền. Nếu công tác kéo dài, thời hạn sẽ tính từ ngày kết thúc chuyến công tác.",
+    "hypothesis_questions": [
+      "Thời hạn thanh toán khoản tạm ứng là bao lâu?",
+      "Thời hạn thanh toán có thay đổi trong trường hợp nào?",
+      "Cần nộp chứng từ gì khi hoàn ứng?"
+    ],
+    "auto_metadata": {
+      "source": "tam_ung.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Thời hạn thanh toán tạm ứng",
+      "entities": [
+        "tạm ứng",
+        "thanh toán",
+        "chứng từ hoàn ứng"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "aa742e99e6786c3f5523d9b831bb8d64679048fdea6aaec3fe817ecad949c088": {
+    "original_text": "## Phạt quá hạn\nKhoản tạm ứng chưa thanh toán sau 15 ngày sẽ bị tính phí **2%/tháng** trên số tiền chưa hoàn ứng. Phí này được khấu trừ vào lương tháng kế tiếp. Nhân viên có khoản tạm ứng chưa thanh toán sẽ không được phê duyệt tạm ứng mới.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quy định tạm ứng và phạt quá hạn trong công ty.\n\n## Phạt quá hạn\nKhoản tạm ứng chưa thanh toán sau 15 ngày sẽ bị tính phí **2%/tháng** trên số tiền chưa hoàn ứng. Phí này được khấu trừ vào lương tháng kế tiếp. Nhân viên có khoản tạm ứng chưa thanh toán sẽ không được phê duyệt tạm ứng mới.",
+    "summary": "Đoạn văn quy định về việc phạt phí đối với khoản tạm ứng chưa thanh toán sau 15 ngày. Mức phí là 2% mỗi tháng và sẽ được khấu trừ vào lương tháng kế tiếp, đồng thời nhân viên có khoản tạm ứng chưa thanh toán sẽ không được phê duyệt tạm ứng mới.",
+    "hypothesis_questions": [
+      "Mức phí phạt quá hạn là bao nhiêu?",
+      "Phí phạt sẽ được khấu trừ vào đâu?",
+      "Nhân viên có khoản tạm ứng chưa thanh toán có được phê duyệt tạm ứng mới không?"
+    ],
+    "auto_metadata": {
+      "source": "tam_ung.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quy định về tạm ứng",
+      "entities": [
+        "tạm ứng",
+        "phí phạt",
+        "nhân viên"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "901cffff3234528f1e8c5899db5aadede8805c70bccc6ecfa787efc3f07f4a90": {
+    "original_text": "## Phê duyệt\nTạm ứng dưới 5.000.000 VNĐ: trưởng phòng phê duyệt. Từ 5.000.000 VNĐ trở lên: cần thêm phê duyệt Kế toán trưởng.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy trình tài chính và nói về quy định phê duyệt tạm ứng.\n\n## Phê duyệt\nTạm ứng dưới 5.000.000 VNĐ: trưởng phòng phê duyệt. Từ 5.000.000 VNĐ trở lên: cần thêm phê duyệt Kế toán trưởng.",
+    "summary": "Đoạn văn quy định quy trình phê duyệt tạm ứng trong tổ chức. Tạm ứng dưới 5.000.000 VNĐ chỉ cần trưởng phòng phê duyệt, trong khi tạm ứng từ 5.000.000 VNĐ trở lên cần có sự phê duyệt của Kế toán trưởng.",
+    "hypothesis_questions": [
+      "Ai là người phê duyệt tạm ứng dưới 5.000.000 VNĐ?",
+      "Tạm ứng từ bao nhiêu tiền thì cần phê duyệt của Kế toán trưởng?",
+      "Quy trình phê duyệt tạm ứng có những bước nào?"
+    ],
+    "auto_metadata": {
+      "source": "tam_ung.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Quy trình phê duyệt tạm ứng",
+      "entities": [
+        "trưởng phòng",
+        "Kế toán trưởng"
+      ],
+      "category": "finance",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "ad04d8f27d8e2c72bc00b737533036d6fdd756bdd77cfa2ce533ebc5251ba739": {
+    "original_text": "# Chính sách thử việc\n> Phiên bản: 1.2 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Nhân sự",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu thu_viec.md và nói về chính sách thử việc trong công ty.\n\n# Chính sách thử việc\n> Phiên bản: 1.2 | Ngày hiệu lực: 01/01/2024 | Phòng ban: Nhân sự",
+    "summary": "Đoạn văn giới thiệu về chính sách thử việc của công ty, bao gồm thông tin về phiên bản và ngày hiệu lực. Nó thuộc phòng ban nhân sự.",
+    "hypothesis_questions": [
+      "Chính sách thử việc này có những nội dung gì?",
+      "Ai là người phụ trách chính sách này?",
+      "Có thay đổi gì trong phiên bản mới không?"
+    ],
+    "auto_metadata": {
+      "source": "thu_viec.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách thử việc",
+      "entities": [
+        "Nhân sự"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "983cd60941d4c0477a7d3e8ce30ad3ff4c0c85c2afab7a893fb02c188b29c997": {
+    "original_text": "## Thời gian thử việc\nThời gian thử việc tiêu chuẩn là **60 ngày** kể từ ngày bắt đầu làm việc. Đối với vị trí quản lý cấp cao (Manager trở lên), thời gian thử việc có thể kéo dài đến 90 ngày.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định thử việc, nói về thời gian thử việc cho nhân viên.\n\n## Thời gian thử việc\nThời gian thử việc tiêu chuẩn là **60 ngày** kể từ ngày bắt đầu làm việc. Đối với vị trí quản lý cấp cao (Manager trở lên), thời gian thử việc có thể kéo dài đến 90 ngày.",
+    "summary": "Đoạn văn đề cập đến thời gian thử việc tiêu chuẩn là 60 ngày, với khả năng kéo dài đến 90 ngày cho các vị trí quản lý cấp cao. Thông tin này quan trọng cho việc hiểu quy định về thời gian thử việc trong tổ chức.",
+    "hypothesis_questions": [
+      "Thời gian thử việc tiêu chuẩn là bao lâu?",
+      "Thời gian thử việc cho vị trí quản lý cấp cao là bao lâu?",
+      "Có thể kéo dài thời gian thử việc không?"
+    ],
+    "auto_metadata": {
+      "source": "thu_viec.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Thời gian thử việc",
+      "entities": [
+        "thử việc",
+        "quản lý cấp cao"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "69cfd806a6db9ea0fab1aa955a3f8f099919ee4b20f1efffa4ae03d0fa70fcad": {
+    "original_text": "## Lương thử việc\nNhân viên thử việc được nhận **85% mức lương** của cấp bậc tương ứng theo bảng lương công ty. Phụ cấp ăn trưa được áp dụng đầy đủ từ ngày đầu tiên.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định lương và phúc lợi cho nhân viên thử việc.\n\n## Lương thử việc\nNhân viên thử việc được nhận **85% mức lương** của cấp bậc tương ứng theo bảng lương công ty. Phụ cấp ăn trưa được áp dụng đầy đủ từ ngày đầu tiên.",
+    "summary": "Đoạn văn đề cập đến mức lương của nhân viên trong thời gian thử việc, cụ thể là 85% mức lương của cấp bậc tương ứng. Ngoài ra, nhân viên thử việc cũng được hưởng phụ cấp ăn trưa từ ngày đầu tiên.",
+    "hypothesis_questions": [
+      "Mức lương thử việc là bao nhiêu phần trăm?",
+      "Nhân viên thử việc có được phụ cấp ăn trưa không?",
+      "Phụ cấp ăn trưa bắt đầu từ khi nào?"
+    ],
+    "auto_metadata": {
+      "source": "thu_viec.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Lương thử việc",
+      "entities": [
+        "nhân viên",
+        "lương",
+        "phụ cấp ăn trưa"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "f40825219afb7d473d53398102b1bd38c0db8a9887d96fe5b58631d670bcafbb": {
+    "original_text": "## Quyền lợi trong thử việc Nhân viên thử việc **KHÔNG được nghỉ phép năm**. Trường hợp cần nghỉ việc riêng, nhân viên thử việc phải xin nghỉ không lương và được trưởng phòng phê duyệt.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định thử việc, nói về quyền lợi và nghĩa vụ của nhân viên trong thời gian thử việc.\n\n## Quyền lợi trong thử việc Nhân viên thử việc **KHÔNG được nghỉ phép năm**. Trường hợp cần nghỉ việc riêng, nhân viên thử việc phải xin nghỉ không lương và được trưởng phòng phê duyệt.",
+    "summary": "Đoạn văn đề cập đến quyền lợi của nhân viên thử việc, nhấn mạnh rằng họ không được nghỉ phép năm. Nếu cần nghỉ việc riêng, họ phải xin nghỉ không lương và được trưởng phòng phê duyệt.",
+    "hypothesis_questions": [
+      "Nhân viên thử việc có được nghỉ phép năm không?",
+      "Nếu nhân viên thử việc cần nghỉ việc riêng thì phải làm gì?",
+      "Ai là người phê duyệt đơn xin nghỉ không lương của nhân viên thử việc?"
+    ],
+    "auto_metadata": {
+      "source": "thu_viec.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quyền lợi nhân viên thử việc",
+      "entities": [
+        "nhân viên thử việc",
+        "nghỉ phép năm",
+        "trưởng phòng"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "1d3fa17ece414c323558a6a6fd64c112fccd2be5542705d617a778382c59598c": {
+    "original_text": "Nhân viên thử việc được tham gia bảo hiểm xã hội bắt buộc nhưng chưa được hưởng gói bảo hiểm sức khỏe PVI.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy định và quyền lợi của nhân viên thử việc trong công ty, nói về các loại bảo hiểm mà họ được tham gia.\n\nNhân viên thử việc được tham gia bảo hiểm xã hội bắt buộc nhưng chưa được hưởng gói bảo hiểm sức khỏe PVI.",
+    "summary": "Nhân viên thử việc có quyền tham gia bảo hiểm xã hội bắt buộc, tuy nhiên họ chưa được hưởng gói bảo hiểm sức khỏe PVI. Điều này cho thấy sự khác biệt trong quyền lợi giữa nhân viên chính thức và nhân viên thử việc.",
+    "hypothesis_questions": [
+      "Nhân viên thử việc có được hưởng bảo hiểm sức khỏe không?",
+      "Bảo hiểm xã hội bắt buộc có áp dụng cho nhân viên thử việc không?",
+      "Có sự khác biệt nào trong quyền lợi giữa nhân viên thử việc và nhân viên chính thức không?"
+    ],
+    "auto_metadata": {
+      "source": "thu_viec.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Quyền lợi nhân viên thử việc",
+      "entities": [
+        "nhân viên thử việc",
+        "bảo hiểm xã hội",
+        "bảo hiểm sức khỏe PVI"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "80d8933c9c5ba6f3e078b838d49c2e073e9ae40c98f4dd86f77f42182fba7628": {
+    "original_text": "## Đánh giá thử việc\nQuản lý trực tiếp thực hiện đánh giá vào ngày thứ 30 (giữa kỳ) và ngày thứ 55 (cuối kỳ). Kết quả đánh giá quyết định việc ký hợp đồng chính thức.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về quy trình thử việc và đánh giá nhân viên, nói về cách thức đánh giá trong thời gian thử việc.\n\n## Đánh giá thử việc\nQuản lý trực tiếp thực hiện đánh giá vào ngày thứ 30 (giữa kỳ) và ngày thứ 55 (cuối kỳ). Kết quả đánh giá quyết định việc ký hợp đồng chính thức.",
+    "summary": "Đoạn văn mô tả quy trình đánh giá thử việc của nhân viên, bao gồm thời gian đánh giá vào ngày thứ 30 và thứ 55. Kết quả đánh giá sẽ quyết định việc ký hợp đồng chính thức cho nhân viên.",
+    "hypothesis_questions": [
+      "Quản lý thực hiện đánh giá vào những ngày nào?",
+      "Kết quả đánh giá có ảnh hưởng gì đến hợp đồng?",
+      "Ai là người thực hiện đánh giá thử việc?"
+    ],
+    "auto_metadata": {
+      "source": "thu_viec.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 5,
+      "chunk_index": 5,
+      "topic": "Đánh giá thử việc",
+      "entities": [
+        "quản lý",
+        "nhân viên",
+        "hợp đồng"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "97ea5914fca1cc5f3c9a14a987347f4af6d67ac8790f5eb808c6f70f29e37cf5": {
+    "original_text": "# Chính sách thưởng Tết\n> Phiên bản: 2.0 | Ngày hiệu lực: 01/11/2024 | Phòng ban: Nhân sự & Tài chính",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu thuong_tet.md và nói về chính sách thưởng Tết trong công ty.\n\n# Chính sách thưởng Tết\n> Phiên bản: 2.0 | Ngày hiệu lực: 01/11/2024 | Phòng ban: Nhân sự & Tài chính",
+    "summary": "Đoạn văn giới thiệu về chính sách thưởng Tết, bao gồm thông tin về phiên bản và ngày hiệu lực của chính sách. Nó cũng chỉ rõ phòng ban liên quan đến chính sách này.",
+    "hypothesis_questions": [
+      "Chính sách thưởng Tết có những nội dung gì?",
+      "Ngày hiệu lực của chính sách thưởng Tết là khi nào?",
+      "Phòng ban nào phụ trách chính sách thưởng Tết?"
+    ],
+    "auto_metadata": {
+      "source": "thuong_tet.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách thưởng Tết",
+      "entities": [
+        "Nhân sự",
+        "Tài chính"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "9c0a9c9e7ade2456b82d37f297756f19a56c2bf7cdf22f0108523fc19aafe6dc": {
+    "original_text": "## Mức thưởng tối thiểu\nTất cả nhân viên chính thức có thời gian làm việc từ 6 tháng trở lên được thưởng Tết tối thiểu **1 tháng lương**. Nhân viên dưới 6 tháng được hưởng pro-rata theo số tháng làm việc thực tế.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về chính sách thưởng Tết cho nhân viên, nói về quy định mức thưởng tối thiểu.\n\n## Mức thưởng tối thiểu\nTất cả nhân viên chính thức có thời gian làm việc từ 6 tháng trở lên được thưởng Tết tối thiểu **1 tháng lương**. Nhân viên dưới 6 tháng được hưởng pro-rata theo số tháng làm việc thực tế.",
+    "summary": "Đoạn văn quy định mức thưởng Tết tối thiểu cho nhân viên chính thức, cụ thể là 1 tháng lương cho những người có thời gian làm việc từ 6 tháng trở lên. Nhân viên có thời gian làm việc dưới 6 tháng sẽ nhận thưởng theo tỷ lệ tương ứng với số tháng làm việc thực tế.",
+    "hypothesis_questions": [
+      "Mức thưởng Tết tối thiểu là bao nhiêu?",
+      "Nhân viên làm việc dưới 6 tháng sẽ được thưởng như thế nào?",
+      "Ai là đối tượng được hưởng mức thưởng này?"
+    ],
+    "auto_metadata": {
+      "source": "thuong_tet.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Thưởng Tết",
+      "entities": [
+        "nhân viên",
+        "thưởng Tết",
+        "lương"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "7f71a0ba6055733e0a4270f8ab323e9c02441d87cc60dbc10f1eda363d7e5dde": {
+    "original_text": "## Tiêu chí tính thưởng Mức thưởng Tết được tính dựa trên hai yếu tố chính: - **Kết quả đánh giá hiệu suất cá nhân** (trọng số 60%): dựa trên kết quả đánh giá cuối năm - **Kết quả kinh doanh của công ty** (trọng số 40%):",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về chính sách thưởng Tết của công ty, nói về tiêu chí và cách tính mức thưởng.\n\n## Tiêu chí tính thưởng Mức thưởng Tết được tính dựa trên hai yếu tố chính: - **Kết quả đánh giá hiệu suất cá nhân** (trọng số 60%): dựa trên kết quả đánh giá cuối năm - **Kết quả kinh doanh của công ty** (trọng số 40%):",
+    "summary": "Mức thưởng Tết được xác định dựa trên hai yếu tố chính là kết quả đánh giá hiệu suất cá nhân và kết quả kinh doanh của công ty. Trong đó, hiệu suất cá nhân chiếm 60% và kết quả kinh doanh chiếm 40%.",
+    "hypothesis_questions": [
+      "Mức thưởng Tết được tính như thế nào?",
+      "Trọng số của các yếu tố trong việc tính thưởng là gì?",
+      "Yếu tố nào chiếm tỷ lệ cao hơn trong việc tính thưởng Tết?"
+    ],
+    "auto_metadata": {
+      "source": "thuong_tet.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Thưởng Tết",
+      "entities": [
+        "hiệu suất cá nhân",
+        "kinh doanh",
+        "thưởng Tết"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "450e19f7866a27f688fb45f718fe64556cf0ea8777a6a8c01e8a60681e3709d6": {
+    "original_text": "nếu công ty đạt/vượt chỉ tiêu doanh thu",
+    "enriched_text": "Đoạn văn nằm trong tài liệu thuong_tet.md và nói về các điều kiện liên quan đến doanh thu của công ty.\n\nnếu công ty đạt/vượt chỉ tiêu doanh thu",
+    "summary": "Đoạn văn đề cập đến điều kiện để công ty có thể đạt hoặc vượt chỉ tiêu doanh thu. Điều này có thể liên quan đến các chính sách thưởng hoặc khuyến khích cho nhân viên.",
+    "hypothesis_questions": [
+      "Công ty sẽ có chính sách gì nếu đạt chỉ tiêu doanh thu?",
+      "Có những yếu tố nào ảnh hưởng đến việc đạt chỉ tiêu doanh thu?",
+      "Làm thế nào để nhân viên có thể góp phần vào việc đạt chỉ tiêu doanh thu?"
+    ],
+    "auto_metadata": {
+      "source": "thuong_tet.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Chính sách thưởng",
+      "entities": [
+        "công ty",
+        "doanh thu"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "eea2a13a624bb5f877a2483ee97470599b8eb20baae8a187e51f835b5c346f05": {
+    "original_text": "## Thời gian chi trả\nThưởng Tết được chi trả trước ngày 25 tháng Chạp (âm lịch). Nhân viên nghỉ việc trước ngày chi trả sẽ không được hưởng thưởng Tết, trừ trường hợp nghỉ hưu hoặc hết hạn hợp đồng.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu về chính sách thưởng Tết cho nhân viên, đề cập đến thời gian và điều kiện chi trả thưởng.\n\n## Thời gian chi trả\nThưởng Tết được chi trả trước ngày 25 tháng Chạp (âm lịch). Nhân viên nghỉ việc trước ngày chi trả sẽ không được hưởng thưởng Tết, trừ trường hợp nghỉ hưu hoặc hết hạn hợp đồng.",
+    "summary": "Đoạn văn quy định về thời gian chi trả thưởng Tết cho nhân viên, cụ thể là trước ngày 25 tháng Chạp âm lịch. Nhân viên nghỉ việc trước thời gian này sẽ không được nhận thưởng, trừ một số trường hợp đặc biệt.",
+    "hypothesis_questions": [
+      "Thưởng Tết được chi trả vào thời gian nào?",
+      "Nhân viên nào không được hưởng thưởng Tết?",
+      "Có những trường hợp nào được nhận thưởng mặc dù đã nghỉ việc?"
+    ],
+    "auto_metadata": {
+      "source": "thuong_tet.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 4,
+      "chunk_index": 4,
+      "topic": "Thưởng Tết",
+      "entities": [
+        "nhân viên",
+        "thưởng Tết",
+        "ngày 25 tháng Chạp"
+      ],
+      "category": "hr",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "10d1571b06dd80415197e83710d898571204dfe5d0b3424b14a4c8ea7214cc84": {
+    "original_text": "# Chính sách VPN và truy cập từ xa\n> Phiên bản: 1.3 | Ngày hiệu lực: 01/04/2024 | Phòng ban: CNTT",
+    "enriched_text": "Đoạn văn nằm ở phần đầu của tài liệu vpn_truy_cap.md và nói về chính sách liên quan đến VPN và truy cập từ xa.\n\n# Chính sách VPN và truy cập từ xa\n> Phiên bản: 1.3 | Ngày hiệu lực: 01/04/2024 | Phòng ban: CNTT",
+    "summary": "Đoạn văn giới thiệu về chính sách VPN và truy cập từ xa, bao gồm thông tin về phiên bản và ngày hiệu lực. Chính sách này thuộc phòng ban CNTT.",
+    "hypothesis_questions": [
+      "Chính sách VPN này có những nội dung gì?",
+      "Ngày hiệu lực của chính sách là khi nào?",
+      "Phòng ban nào chịu trách nhiệm về chính sách này?"
+    ],
+    "auto_metadata": {
+      "source": "vpn_truy_cap.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "Chính sách VPN và truy cập từ xa",
+      "entities": [
+        "VPN",
+        "truy cập từ xa",
+        "CNTT"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "5f98f3a6947c68b22cc0fadd8726b18a4a1f23300602b88d72d889169774e3db": {
+    "original_text": "## Giao thức kết nối\nCông ty sử dụng **WireGuard VPN** với mã hóa **AES-256**. Tất cả kết nối từ xa bắt buộc qua VPN. Nhân viên tải cấu hình VPN từ IT Portal hoặc liên hệ helpdesk@cty.vn.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về việc sử dụng VPN của công ty, nói về giao thức kết nối và quy trình truy cập từ xa.\n\n## Giao thức kết nối\nCông ty sử dụng **WireGuard VPN** với mã hóa **AES-256**. Tất cả kết nối từ xa bắt buộc qua VPN. Nhân viên tải cấu hình VPN từ IT Portal hoặc liên hệ helpdesk@cty.vn.",
+    "summary": "Công ty sử dụng giao thức WireGuard VPN với mã hóa AES-256 để đảm bảo an toàn cho các kết nối từ xa. Nhân viên có thể tải cấu hình VPN từ IT Portal hoặc liên hệ với bộ phận hỗ trợ kỹ thuật nếu cần.",
+    "hypothesis_questions": [
+      "Giao thức VPN nào được công ty sử dụng?",
+      "Mã hóa nào được áp dụng cho kết nối?",
+      "Nhân viên có thể tải cấu hình VPN từ đâu?"
+    ],
+    "auto_metadata": {
+      "source": "vpn_truy_cap.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "Giao thức VPN",
+      "entities": [
+        "WireGuard VPN",
+        "AES-256",
+        "IT Portal",
+        "helpdesk@cty.vn"
+      ],
+      "category": "it",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "9e6e6de800a22cc9655900412f9fde0d955ee8a0283836fc3f745a3d5550af8a": {
+    "original_text": "## Quản lý tài khoản VPN\nTài khoản VPN tự động bị **khóa sau 60 ngày không hoạt động**. Để kích hoạt lại, nhân viên cần gửi yêu cầu qua ticket IT kèm xác nhận của quản lý trực tiếp. Thời gian xử lý: 1-2 ngày làm việc.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về quản lý tài khoản VPN, đề cập đến quy trình và thời gian xử lý khi tài khoản bị khóa.\n\n## Quản lý tài khoản VPN\nTài khoản VPN tự động bị **khóa sau 60 ngày không hoạt động**. Để kích hoạt lại, nhân viên cần gửi yêu cầu qua ticket IT kèm xác nhận của quản lý trực tiếp. Thời gian xử lý: 1-2 ngày làm việc.",
+    "summary": "Đoạn văn mô tả quy trình quản lý tài khoản VPN, trong đó tài khoản sẽ bị khóa sau 60 ngày không hoạt động. Để kích hoạt lại tài khoản, nhân viên cần gửi yêu cầu qua ticket IT và có xác nhận của quản lý trực tiếp.",
+    "hypothesis_questions": [
+      "Tài khoản VPN bị khóa sau bao lâu không hoạt động?",
+      "Nhân viên cần làm gì để kích hoạt lại tài khoản VPN?",
+      "Thời gian xử lý yêu cầu kích hoạt lại tài khoản là bao lâu?"
+    ],
+    "auto_metadata": {
+      "source": "vpn_truy_cap.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Quản lý tài khoản VPN",
+      "entities": [
+        "tài khoản VPN",
+        "nhân viên",
+        "ticket IT",
+        "quản lý"
+      ],
+      "category": "it",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "349aff2977bc3debbb164f8a4f7df2e12c61f8214f9d39a4647acf3776229666": {
+    "original_text": "## Quy định sử dụng\n- Không chia sẻ thông tin đăng nhập VPN\n- Ngắt kết nối VPN khi không sử dụng\n- Không sử dụng VPN cá nhân (NordVPN, ExpressVPN) trong mạng công ty\n- Phiên VPN tự động ngắt sau 12 giờ, cần đăng nhập lại",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn sử dụng VPN, nói về các quy định và nguyên tắc cần tuân thủ khi sử dụng dịch vụ VPN trong công ty.\n\n## Quy định sử dụng\n- Không chia sẻ thông tin đăng nhập VPN\n- Ngắt kết nối VPN khi không sử dụng\n- Không sử dụng VPN cá nhân (NordVPN, ExpressVPN) trong mạng công ty\n- Phiên VPN tự động ngắt sau 12 giờ, cần đăng nhập lại",
+    "summary": "Đoạn văn quy định các nguyên tắc sử dụng VPN trong công ty, bao gồm việc không chia sẻ thông tin đăng nhập, ngắt kết nối khi không sử dụng và không sử dụng VPN cá nhân. Ngoài ra, phiên VPN sẽ tự động ngắt sau 12 giờ và người dùng cần đăng nhập lại.",
+    "hypothesis_questions": [
+      "Tại sao không được chia sẻ thông tin đăng nhập VPN?",
+      "Những hậu quả nào có thể xảy ra nếu sử dụng VPN cá nhân trong mạng công ty?",
+      "Làm thế nào để đăng nhập lại sau khi phiên VPN tự động ngắt?"
+    ],
+    "auto_metadata": {
+      "source": "vpn_truy_cap.md",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 3,
+      "chunk_index": 3,
+      "topic": "Quy định sử dụng VPN",
+      "entities": [
+        "VPN",
+        "NordVPN",
+        "ExpressVPN"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "d91a503187a71113269840275f1b6aa727c2b30940d0eb742bbd32c203e189a8": {
+    "original_text": "So tay An toan Lao dong va Phong chay An toàn phòng cháy chữa cháy Bình chữa cháy được đặt tại mỗi tầng, kiểm tra định kỳ 6 tháng một lần. Lối thoát hiểm phải luôn thông thoáng, không được để vật cản.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn an toàn lao động và phòng cháy chữa cháy, nói về các quy định và biện pháp an toàn cần thực hiện.\n\nSo tay An toan Lao dong va Phong chay An toàn phòng cháy chữa cháy Bình chữa cháy được đặt tại mỗi tầng, kiểm tra định kỳ 6 tháng một lần. Lối thoát hiểm phải luôn thông thoáng, không được để vật cản.",
+    "summary": "Đoạn văn đề cập đến các biện pháp an toàn lao động và phòng cháy chữa cháy, nhấn mạnh việc kiểm tra bình chữa cháy định kỳ và yêu cầu lối thoát hiểm phải luôn thông thoáng. Đây là những quy định quan trọng để đảm bảo an toàn trong môi trường làm việc.",
+    "hypothesis_questions": [
+      "Bình chữa cháy cần được kiểm tra định kỳ bao lâu một lần?",
+      "Lối thoát hiểm cần phải đảm bảo điều gì?",
+      "Tại sao việc kiểm tra bình chữa cháy lại quan trọng?"
+    ],
+    "auto_metadata": {
+      "source": "so_tay_an_toan.pdf",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 0,
+      "chunk_index": 0,
+      "topic": "An toàn lao động và phòng cháy chữa cháy",
+      "entities": [
+        "bình chữa cháy",
+        "lối thoát hiểm"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "137cf31c972a3a7e93234551bc99864dbc70a24521176f8b28ffaf409d01f64d": {
+    "original_text": "Khi có cháy, tập trung tại bãi đỗ xe phía trước tòa nhà theo hướng dẫn. Sơ cứu y tế Tủ thuốc sơ cứu đặt tại khu vực pantry mỗi tầng. Mỗi phòng ban cử ít nhất 1 nhân viên được tập huấn sơ cứu cơ bản. An toàn dữ liệu vật lý",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn an toàn, đề cập đến các biện pháp ứng phó khi có sự cố cháy nổ.\n\nKhi có cháy, tập trung tại bãi đỗ xe phía trước tòa nhà theo hướng dẫn. Sơ cứu y tế Tủ thuốc sơ cứu đặt tại khu vực pantry mỗi tầng. Mỗi phòng ban cử ít nhất 1 nhân viên được tập huấn sơ cứu cơ bản. An toàn dữ liệu vật lý",
+    "summary": "Đoạn văn hướng dẫn các biện pháp an toàn khi có cháy, bao gồm việc tập trung tại bãi đỗ xe và sơ cứu y tế. Nó cũng nhấn mạnh tầm quan trọng của việc có nhân viên được tập huấn sơ cứu cơ bản trong mỗi phòng ban.",
+    "hypothesis_questions": [
+      "Khi có cháy, mọi người nên tập trung ở đâu?",
+      "Tủ thuốc sơ cứu được đặt ở đâu?",
+      "Mỗi phòng ban cần cử bao nhiêu nhân viên được tập huấn sơ cứu?"
+    ],
+    "auto_metadata": {
+      "source": "so_tay_an_toan.pdf",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 1,
+      "chunk_index": 1,
+      "topic": "An toàn khi có cháy",
+      "entities": [
+        "cháy",
+        "sơ cứu",
+        "tòa nhà",
+        "nhân viên"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  },
+  "1cbe477206be17faaa2e1436583cf35f78c49208b122f31c952cb29b91dec0a7": {
+    "original_text": "Tài liệu mật phải được hủy bằng máy hủy giấy, không bỏ vào thùng rác thường. Phòng máy chủ chỉ cho phép nhân viên CNTT có thẻ truy cập ra vào.",
+    "enriched_text": "Đoạn văn nằm trong tài liệu hướng dẫn về an toàn thông tin, đề cập đến quy định bảo mật tài liệu và truy cập phòng máy chủ.\n\nTài liệu mật phải được hủy bằng máy hủy giấy, không bỏ vào thùng rác thường. Phòng máy chủ chỉ cho phép nhân viên CNTT có thẻ truy cập ra vào.",
+    "summary": "Đoạn văn nhấn mạnh tầm quan trọng của việc bảo mật tài liệu mật và quy định về việc hủy tài liệu này. Nó cũng chỉ rõ rằng chỉ nhân viên CNTT có thẻ truy cập mới được vào phòng máy chủ.",
+    "hypothesis_questions": [
+      "Tại sao tài liệu mật không được bỏ vào thùng rác thường?",
+      "Ai là người được phép vào phòng máy chủ?",
+      "Máy hủy giấy có vai trò gì trong việc bảo mật tài liệu?"
+    ],
+    "auto_metadata": {
+      "source": "so_tay_an_toan.pdf",
+      "strategy": "hierarchical",
+      "chunk_type": "child",
+      "parent_id": "parent_0",
+      "parent_index": 0,
+      "child_index": 2,
+      "chunk_index": 2,
+      "topic": "Bảo mật thông tin",
+      "entities": [
+        "tài liệu mật",
+        "máy hủy giấy",
+        "phòng máy chủ",
+        "nhân viên CNTT"
+      ],
+      "category": "policy",
+      "language": "vi"
+    },
+    "method": "combined"
+  }
+}

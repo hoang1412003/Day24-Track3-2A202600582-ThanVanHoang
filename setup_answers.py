@@ -38,7 +38,6 @@ def build_pipeline():
     from src.m1_chunking import load_documents, chunk_hierarchical
     from src.m2_search import HybridSearch
     from src.m3_rerank import CrossEncoderReranker
-    from src.m5_enrichment import enrich_chunks
     from config import RERANK_TOP_K
 
     print("\n[1/3] Chunking + enriching documents...")
@@ -53,12 +52,16 @@ def build_pipeline():
                 "metadata": {**child.metadata, "parent_id": child.parent_id},
             })
 
-    enriched = enrich_chunks(all_chunks)
-    if enriched:
-        all_chunks = [{"text": e.enriched_text, "metadata": e.auto_metadata} for e in enriched]
-        print(f"  ✓ Enriched {len(enriched)} chunks ({time.time()-t0:.1f}s)")
+    if os.getenv("RUN_M5_ENRICH", "0") == "1":
+        from src.m5_enrichment import enrich_chunks
+        enriched = enrich_chunks(all_chunks)
+        if enriched:
+            all_chunks = [{"text": e.enriched_text, "metadata": e.auto_metadata} for e in enriched]
+            print(f"  ✓ Enriched {len(enriched)} chunks ({time.time()-t0:.1f}s)")
+        else:
+            print(f"  ✓ Using {len(all_chunks)} raw chunks (M5 returned no chunks)")
     else:
-        print(f"  ✓ Using {len(all_chunks)} raw chunks (M5 not implemented or no API key)")
+        print(f"  ✓ Using {len(all_chunks)} raw chunks (set RUN_M5_ENRICH=1 to enable M5 enrichment)")
 
     print("\n[2/3] Indexing (BM25 + Dense)...")
     t0 = time.time()
